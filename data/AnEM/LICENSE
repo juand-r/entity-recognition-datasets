@@ -1,0 +1,35 @@
+LICENSE
+
+1. Annotations
+
+The AnEM corpus annotations licenced under the Creative Commons BY-SA
+3.0 license. See http://creativecommons.org/licenses/by-sa/3.0/ for
+the license terms.
+
+Please attribute the corpus by citing the DSSD'12 paper referenced
+below in publications and linking to http://www.nactem.ac.uk/anatomy/
+in online resources.
+
+2. Texts
+
+The abstracts contained in the corpus are from PubMed, a database of
+the U.S. National Library of Medicine (NLM). Please see the NLM page
+on copyright information regarding the copyright of the abstracts:
+http://www.nlm.nih.gov/databases/download.html
+
+The full text extracts contained in the corpus are from articles in
+the Open Access Subset of the PubMed Central (PMC) database of the
+NLM. These articles are made available under a Creative Commons or
+similar license. Please see the REFERENCES file in this distribution
+for references to the articles and the PMC version of each article for
+the specific license terms.
+
+
+References
+
+Please attribute the corpus by citing the following paper:
+
+* Tomoko Ohta, Sampo Pyysalo, Jun'ichi Tsujii and Sophia Ananiadou (2012).
+  Open-domain Anatomical Entity Mention Detection.
+  In Proceedings of ACL 2012 Workshop on Detecting Structure in
+  Scholarly Discourse (DSSD).

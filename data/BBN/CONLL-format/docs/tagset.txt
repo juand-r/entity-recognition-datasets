@@ -1,0 +1,81 @@
+Entity label                Counts
+---------------------------------------
+LANGUAGE	                84
+LAW	                        382
+DISEASE	                    317
+ANIMAL                      396
+CARDINAL	                10321
+ORDINAL	                    1098
+GAME	                    90
+MONEY	                    11097
+PERCENT	                    5976
+PERSON	                    40104
+PLANT	                    194
+TIME	                    1069
+CONTACT_INFO:PHONE	        33
+
+#################################
+
+FAC:AIRPORT	                87
+FAC:ATTRACTION	            46
+FAC:BRIDGE	                81
+FAC:BUILDING	            1962
+FAC:HIGHWAY_STREET	        322
+FAC:OTHER	                517
+
+GPE:CITY	                5983
+GPE:COUNTRY	                6071
+GPE:STATE_PROVINCE	        3091
+GPE:OTHER	                261
+
+ORGANIZATION:CORPORATION	38627
+ORGANIZATION:EDUCATIONAL	604
+ORGANIZATION:GOVERNMENT	    7132
+ORGANIZATION:HOSPITAL	    78
+ORGANIZATION:HOTEL	        117
+ORGANIZATION:MUSEUM	        34
+ORGANIZATION:POLITICAL	    564
+ORGANIZATION:RELIGIOUS	    95
+ORGANIZATION:OTHER	        2446
+
+PRODUCT:VEHICLE	            1605
+PRODUCT:WEAPON	            153
+PRODUCT:OTHER	            547
+
+##################################
+
+DATE:AGE	                620
+DATE:DATE	                16124
+DATE:DURATION	            3145
+DATE:OTHER	                787
+
+EVENT:HURRICANE	            104
+EVENT:WAR	                47
+EVENT:OTHER	                220
+
+LOCATION:CONTINENT	        256
+LOCATION:LAKE_SEA_OCEAN	    80
+LOCATION:REGION	            526
+LOCATION:RIVER	            39
+LOCATION:OTHER	            187
+
+NORP:NATIONALITY	        3238
+NORP:POLITICAL	            677
+NORP:RELIGION	            88
+NORP:OTHER	                91
+
+QUANTITY:1D	                188
+QUANTITY:2D	                74
+QUANTITY:3D	                105
+QUANTITY:WEIGHT	            192
+QUANTITY:OTHER	            69
+
+SUBSTANCE:CHEMICAL	        531
+SUBSTANCE:DRUG	            441
+SUBSTANCE:FOOD	            888
+SUBSTANCE:OTHER	            850
+
+WORK_OF_ART:BOOK	        123
+WORK_OF_ART:PLAY	        31
+WORK_OF_ART:SONG	        39
+WORK_OF_ART:OTHER	        515

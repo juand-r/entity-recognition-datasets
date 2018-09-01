@@ -1,0 +1,39 @@
+[entities]
+
+Amenity
+Cuisine
+Dish
+Hours
+Location
+Price
+Rating
+Restaurant_Name
+
+[format]
+
+IOB2
+
+[notes]
+
+[content]
+
+[stats]
+
+        tokens  sentences
+-------------------------
+train   70525   7660
+test    14256   1521
+all     84781   9181
+
+Entities:
+                train   test    all
+------------------------------------
+Amenity         2541    533     3074
+Cuisine         2839    532     3371
+Dish            1475    288     1763
+Hours           990     212     1202
+Location        3817    812     4629
+Price           730     171     901
+Rating          1070    201     1271
+Restaurant_Name 1901    402     2303
+

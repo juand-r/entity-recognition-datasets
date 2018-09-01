@@ -1,0 +1,26 @@
+[entities]
+
+PER
+LOC
+ORG
+MISC
+
+[format]
+
+IO
+
+[content]
+
+[stats]
+
+        tokens  sentences
+--------------------------
+train   41010   1164
+test    13246   303
+--------------------------
+all     54256   1467
+
+[notes]
+
+train: FIN5
+test: FIN3

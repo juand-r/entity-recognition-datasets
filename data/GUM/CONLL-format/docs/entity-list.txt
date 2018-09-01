@@ -1,0 +1,104 @@
+[entities]
+
+person
+place
+organization
+quantity
+time
+event
+abstract
+substance
+object
+animal
+plant
+
+[format]
+
+none
+
+[notes]
+
+- There wasn't a standard test/train split so we created one using the Python
+  script stratified_split.py.
+- There was one mention of a "newspaper" entity; this was removed.
+- The corpus was hand-annotated by students.
+- The entity types were inspired by Ontonotes but diverge a bit; the entities
+  which differ are related according to the following:
+
+    GUM             ONTONOTES
+    -------------------------
+    place           GPE, LOC, FAC
+    organization    NORP, ORG
+    object          PRODUCT, WORK_OF_ART, and any other concrete objects
+    time            DAT, TIM
+    abstract        LANGUAGE, LAW, and all other abstractions
+    quantity        PCT, MON, and all other quantities
+
+    ORDINAL and CARDINAL were not annotated at all.
+
+- For more information, see p. 595 of Zeldes, Amir (2017) "The GUM Corpus:
+  Creating Multilayer Resources in the Classroom". Language Resources and
+  Evaluation 51(3), 581–612.
+
+[content]
+
+whow: How-tos (wikihow)
+voyage: Travel guides (wikivoyage)
+news: news (wikinews)
+interview: interviews from wikinews
+
+See: https://corpling.uis.georgetown.edu/gum/
+
+[stats]
+
+
+        tokens  sentences
+--------------------------
+train   44111   2495
+test    18236   1000
+--------------------------
+all     62347   3495
+--------------------------
+
+
+		    tokens	sentences	documents
+------------------------------------------
+whow:	    16562   1076		19
+voyage:	    14480	755 		17
+news:	    13610   621 		21
+interview:	17695	1043		19
+------------------------------------------
+total:      62347   3495        76
+
+Entities
+                train   test    all
+-----------------------------------
+
+person          1920    823     2743
+place           1150    469     1613
+organization    397     192     589
+quantity        97      44      141
+time            401     179     580
+event           738     315     1053
+abstract        2002    798     2800
+substance       278     95      373
+object          1017    420     1437
+animal          141     42      183
+plant           144     62      206
+
+
+                whow    voyage  news    interview   all
+--------------------------------------------------------
+person          628     321     713     1081        2743
+place           150     1040    249     180         1619
+organization    22      76      247     244         589
+quantity        45      48      29      19          141
+time            72      215     178     115         580
+event           289     165     272     327         1053
+abstract        838     445     478     1039        2800
+substance       235     13      40      85          373
+object          576     289     285     287         1437
+animal          94      16      0       73          183
+plant           169     21      14      2           206
+
+

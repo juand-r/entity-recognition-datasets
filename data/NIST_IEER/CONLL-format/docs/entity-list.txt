@@ -1,0 +1,42 @@
+[entities]
+
+PER
+LOC
+ORG
+PCT
+MON
+TIM
+DAT
+DUR
+CAR
+MEA
+
+[format]
+
+IOB2
+
+[notes]
+
+CAR=CARDINALITY
+DUR=DURATION
+MEA=MEASURE
+
+[content]
+
+NYT and APW news articles from 1998 (March and April)
+
+[stats]
+
+60362 tokens; 2695 sentences
+
+PER: 1504
+LOC: 878
+ORG: 939
+PCT: 76
+MON: 121
+TIM: 12
+DAT: 534
+DUR: 242
+CAR: 461
+MEA: 186
+

@@ -1,0 +1,39 @@
+[entities]
+
+PER
+LOC
+ORG
+PCT
+MON
+TIM
+DAT
+
+[format]
+
+IO
+
+[content]
+
+[stats]
+
+		tokens	sentences	documents
+-----------------------------------------
+VOA:	75407	3877		898
+CIA:	7039	344			98
+MASC:	282		18			4
+total:	82728	4239		1000
+
+		VOA		CIA		MASC	all
+-----------------------------------------
+PER:	1091	34		7		1132
+LOC:	2909	248		6       3163
+ORG:	1355	191		9       1555
+PCT:	63		11		0       74
+MON:	124		6		8		138
+TIM:	58		2		1		61
+DAT:	1486	265		4		1755
+
+[notes]
+
+- There were 5 instances of TTL, and 1 of ART; these should be removed.
+- This is not a 'gold' corpus; it was not fully hand-annotated.

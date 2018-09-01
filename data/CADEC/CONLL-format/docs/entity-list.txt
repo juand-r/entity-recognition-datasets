@@ -1,0 +1,41 @@
+[entities]
+
+ADR
+Disease
+Drug
+Finding
+Symptom
+
+[format]
+
+IOB2
+
+[notes]
+
+ADR: adverse drug reaction
+Finding: clinical finding
+
+There wasn't a standard test/train split so we created one using the Python
+script stratified_split.py.
+
+[content]
+
+[stats]
+
+        tokens  sentences   documents
+--------------------------------------
+train   106451  6610        -
+test    16129   1000        -
+--------------------------------------
+all     122580  7610        1250
+
+
+Entities:
+            train   test    all
+---------------------------------
+ADR         4995    761     5756
+Disease     247     35      282
+Drug        1563    236     1799
+Finding     362     52      414
+Symptom     234     34      268
+

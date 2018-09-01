@@ -1,0 +1,11 @@
+The LICENSES for the datasets in ../CONLL-format/data-by-source/conll/ are
+contained in this directory.
+
+Each subdirectory also contains the original ATTRIBUTION file from
+https://github.com/dstl/re3d, with more information on the provenance of each
+dataset.
+
+The data from each entities.json and documents.json files was converted into
+CONLL format. More details on how we modified the data are given in
+../README.rst.
+

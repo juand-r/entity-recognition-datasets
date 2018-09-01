@@ -1,0 +1,45 @@
+[entities]
+
+ANIMAL
+CARDINAL
+CONTACT_INFO
+DATE
+DISEASE
+EVENT
+FAC
+GAME
+GPE
+LANGUAGE
+LAW
+LOCATION
+MONEY
+NORP
+ORDINAL
+ORGANIZATION
+PERCENT
+PERSON
+PLANT
+PRODUCT
+QUANTITY
+SUBSTANCE
+TIME
+WORK_OF_ART
+
+[format]
+
+none
+
+[notes]
+
+[content]
+
+[stats]
+
+        sentences	tokens
+---------------------------
+train   38911       935514
+test    10000       240637
+---------------------------
+all     48911       1176151
+
+

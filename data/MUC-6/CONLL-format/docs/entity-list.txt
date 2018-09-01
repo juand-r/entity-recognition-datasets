@@ -1,0 +1,33 @@
+[entities]
+
+PER
+LOC
+ORG
+PCT
+MON
+DAT
+
+[format]
+
+IOB2
+
+[content]
+
+[stats]
+
+151840 tokens; 6576 sentences
+
+----------
+PER: 1879
+LOC: 2241
+ORG: 3484
+PCT: 747
+MON: 1329
+DAT: 1173
+
+[notes]
+
+I have only converted the training data; it seems the test and dev data are in
+files formal-tst.NE.key.04oct95 and dryrun-test.NE.key.02may95, respectively.
+These files are quite small (around 1000 and 2000 lines so probably not worth it.).
+

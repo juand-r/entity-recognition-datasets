@@ -1,0 +1,25 @@
+[entities]
+
+PER
+LOC
+ORG
+MISC
+
+[format]
+
+IO
+
+[content]
+
+[stats]
+
+39152 tokens; 1841 sentences
+
+Entities:
+---------
+PER     934
+LOC     1014
+ORG     898
+MISC    712
+
+[notes]

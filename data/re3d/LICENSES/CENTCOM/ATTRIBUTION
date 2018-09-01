@@ -1,0 +1,3 @@
+Documents included in this subset of data were retrieved from the CENTCOM website (http://www.centcom.mil).
+
+The document content was collected from their website, and annotated for entities and relations by Aleph Insights working with Committed Software and on behalf of the UK Defence Science and Technology Laboratory (Dstl). Only minor formatting changes were made to the content in order to get it into a suitable format for processing (e.g. documents.json) - any additional information, is stored separately (e.g. entities.json and relations.json).

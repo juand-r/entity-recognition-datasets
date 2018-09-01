@@ -1,0 +1,54 @@
+[entities]
+
+person
+geo-loc
+facility
+company
+sportsteam
+musicartist
+product
+tvshow
+movie
+other
+
+[format]
+
+IOB2
+
+[notes]
+
+The Twitter Ritter corpus is the same as the training portion of WNUT16.
+The training/test/dev split 80%/10%/10%. We are using exactly
+the same data (and split) as the paper of Yang et al, "Transfer Learning for
+Sequence Tagging with Hierarchical Recurrent Networks", downloaded from
+http://kimi.ml.cmu.edu/transfer/data.tar.gz
+
+[content]
+
+Twitter text.
+
+[stats]
+
+
+        tokens  sentences
+-------------------------
+train   36936   1900
+test    4921    254
+dev     4612    240
+-------------------------
+all     46469   2394
+
+
+Entities:
+            train   test    dev     all
+-----------------------------------------
+person      352     42      55      449
+geo-loc     218     33      25      276
+facility    84      10      10      104
+company     149     14      8       171
+sportsteam  40      4       7       51
+musicartist 40      3       12      55
+product     77      5       15      97
+tvshow      24      5       5       34
+movie       28      4       2       34
+other       188     17      20      225

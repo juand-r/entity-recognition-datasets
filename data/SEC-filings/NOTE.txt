@@ -1,0 +1,13 @@
+This dataset was download from:
+
+https://people.eng.unimelb.edu.au/tbaldwin/resources/finance-sec/
+
+The License is contained in the README.txt.
+
+For more information on the dataset, see
+
+Julio Cesar Salinas Alvarado, Karin Verspoor and Timothy Baldwin (2015)
+Domain Adaption of Named Entity Recognition to Support Credit Risk Assessment,
+In Proceedings of 13th annual workshop of The Australasian Language Technology
+Association, Sydney, Australia.
+

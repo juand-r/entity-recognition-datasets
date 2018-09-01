@@ -1,0 +1,112 @@
+[entities]
+
+DocumentReference
+Location
+MilitaryPlatform
+Money
+Nationality
+Organisation
+Person
+Quantity
+Temporal
+Weapon
+
+[format]
+
+IOB2
+
+[notes]
+
+- There wasn't a standard test/train split so we created one using the Python
+  script stratified_split.py.
+- Pronouns are also labeled as entities here.
+- The original corpus contains various annotated relationships as well.
+- The number of CommsIdentifier, Frequency, and Vehicle labels are too low
+  for these classes to be useful, so they were removed.
+- The following descriptions are from https://github.com/dstl/re3d
+    CommsIdentifier: An alias used to represent people, places, military units
+    in electronic communication etc. Could be a call sign, an email address,
+    a twitter handle.
+
+    DocumentReference: A unique (or semi unique) identifier for a document.
+
+    Frequency: A radio frequency used in electronic communication.
+
+    Location: A specific point, area or feature on earth. May be named
+    (e.g. a city name) or referenced (e.g. with a coordinate systems)
+
+    MilitaryPlatform: A military ship, aeroplane, land vehicle or system or
+    platform onto which weapons might be mounted. May be indicated by its
+    abstract class (e.g. "tank"), or by specific designation or other aliases
+    (e.g. "T-14 Armata")
+
+    Money: An amount of money or reference to currency
+
+    Nationality: Description of nationality, religious or ethnic identity
+
+    Organisation: A group of people, a government, a company, or a family. May
+    be referenced by name (e.g. "the British Army") or in relying on context
+    (e.g. "the Army"). May also be indicated by an abstract class
+    (e.g. "rebels").
+
+    Person: A specific person. May be a name (e.g. Barack Obama); by title,
+    (e.g. "President of the United States"); a combination of title and name
+    (e.g. "President Obama"); or by reference to some other entity
+    (e.g. "The US's head of state")
+
+    Quantity: A quantity or amount of something (e.g. "1 kg")
+
+    Temporal: A specific date, or time or range of time (e.g. 10:30 PST; 12/09/2016; "Next week"; "Wednesday")
+
+    Url: A web URL
+
+    Vehicle: A non-military maritime, land or air vehicle. May be indicated by
+    its abstract class (e.g. "airliner"); by a specific vehicle name (e.g.
+    "Boeing 777"); or another related identifier (e.g. its flight name "MH370")
+
+    Weapon: A weapon. May be indicated by its abstract class (e.g. "rifle"), or by specific name or alias (e.g. "AK-47")
+
+
+[content]
+
+Documents related to the conflict in Syria and Iraq.
+
+[stats]
+
+        tokens  sentences
+--------------------------
+train   19787   765
+test    5501    200
+--------------------------
+all     25288   965
+
+TODO: The following figures (for sentence and token counts, not for
+entity counts) are incorrect -- fix them:
+
+                        tokens      sentences       documents
+-------------------------------------------------------------------
+Wikipedia               3355        111             13
+US_State_Department     3978        124             22
+UK_Government           4644        203             26
+Delegation_of_the_EU    684         15              2
+CENTCOM                 6939        259             23
+BBC_Online              5359        247             8
+Australian_Department   392         14              4
+-------------------------------------------------------------------
+Total                   25351       973             98
+
+Entities (total):
+
+                    train   test    all
+-----------------------------------------
+DocumentReference   47      11      58
+Location            626     173     799
+MilitaryPlatform    47      16      63
+Money               21      3       24
+Nationality         38      6       44
+Organisation        1084    304     1388
+Person              410     107     517
+Quantity            143     37      180
+Temporal            178     45      223
+Weapon              75      23      98
+

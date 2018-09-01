@@ -1,0 +1,46 @@
+[entities]
+
+Anatomical_system
+Cell
+Cellular_component
+Developing_anatomical_structure
+Immaterial_anatomical_entity
+Multi-tissue_structure
+Organ
+Organism_subdivision
+Organism_substance
+Pathological_formation
+Tissue
+
+[format]
+
+IOB2
+
+[notes]
+
+[content]
+
+[stats]
+
+        tokens  sentences
+--------------------------
+train   71697   2815
+test    45939   1882
+--------------------------
+all     117636  4697
+
+Entities:
+
+--------------------------------------
+Anatomical_system               51
+Cell                            776
+Cellular_component              199
+Developing_anatomical_structure 39
+Immaterial_anatomical_entity    60
+Multi-tissue_structure          639
+Organ                           381
+Organism_subdivision            162
+Organism_substance              291
+Pathological_formation          368
+Tissue                          169
+

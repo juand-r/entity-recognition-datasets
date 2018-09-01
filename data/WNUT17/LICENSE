@@ -1,0 +1,18 @@
+License
+-------
+
+This dataset is distributed under the [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) license.
+
+If you use this data, please cite the relevant paper:
+
+Leon Derczynski, Eric Nichols, Marieke van Erp, Nut Limsopatham; 2017.
+Results of the WNUT2017 Shared Task on Novel and Emerging Entity Recognition.
+In Proceedings of the Workshop on Noisy, User-generated Text, at EMNLP.
+(http://noisy-text.github.io/2017/pdf/WNUT18.pdf)
+
+
+Modifications
+-------------
+
+A couple minor modifications were made; these are specified in file README.rst.
+

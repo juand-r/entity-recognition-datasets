@@ -1,0 +1,67 @@
+QUESTION	O
+:	O
+Secretary	B-Person
+Kerry	I-Person
+,	O
+did	O
+you	O
+discuss	O
+Aleppo	B-Location
+?	O
+
+Were	O
+there	O
+any	O
+agreements	O
+?	O
+
+SECRETARY	B-Person
+KERRY	I-Person
+:	O
+We	B-Organisation
+obviously	O
+talked	O
+about	O
+the	O
+extraordinarily	O
+dire	O
+situation	O
+in	O
+Aleppo	B-Location
+and	O
+we	B-Organisation
+exchanged	O
+some	O
+ideas	O
+about	O
+it	O
+,	O
+and	O
+we	B-Organisation
+intend	O
+to	O
+connect	O
+in	O
+the	B-Temporal
+morning	I-Temporal
+to	O
+see	O
+where	O
+we	B-Organisation
+are	O
+on	O
+it	O
+.	O
+
+MR	B-Person
+KIRBY	I-Person
+:	O
+Thanks	O
+,	O
+everybody	O
+.	O
+
+Thank	O
+you	O
+.	O
+

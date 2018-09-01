@@ -1,0 +1,7 @@
+Download the data from
+
+http://kimi.ml.cmu.edu/transfer/data.tar.gz
+
+and put file ner.test.dev in this directory.
+
+Then delete this file.

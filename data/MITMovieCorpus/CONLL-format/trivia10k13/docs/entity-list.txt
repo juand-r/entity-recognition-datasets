@@ -1,0 +1,50 @@
+[entities]
+
+Actor
+Character_Name
+Director
+Genre
+Plot
+Year
+Soundtrack
+Opinion
+Award
+Origin
+Quote
+Relationship
+
+[format]
+
+IOB2
+
+[notes]
+
+[content]
+
+[stats]
+
+        tokens  sentences
+--------------------------
+train   158823  7816
+test    39035   1953
+--------------------------
+all     197858  9769
+
+
+Entities
+                train   test    all
+-------------------------------------
+Actor           5010    1274    6284
+Character_Name  1025    283     1308
+Director        1787    425     2212
+Genre           3384    789     4173
+Plot            6468    1577    8045
+Year            2702    661     3363
+Soundtrack      50      8       58
+Opinion         810     195     1005
+Award           309     66      375
+Origin          779     190     969
+Quote           126     47      173
+Relationship    580     171     751
+
+

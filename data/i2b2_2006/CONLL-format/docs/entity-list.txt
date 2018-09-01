@@ -1,0 +1,38 @@
+[entities]
+
+DATE
+DOCTOR
+HOSPITAL
+ID
+LOCATION
+PATIENT
+PHONE
+
+[format]
+
+none
+
+[notes]
+
+[content]
+
+[stats]
+
+		sentences	tokens
+-------------------------------
+train	49941		395272
+test	18095		166312
+-------------------------------
+all		68036		561584
+
+Entities:
+			train	test	all
+---------------------------------
+DATE		5167	1931	7098
+DOCTOR		2681	1069	3750
+HOSPITAL	1723	675		2398
+ID			3666	1143	4809
+LOCATION	144		119		263
+PATIENT		684		245		929
+PHONE		174		58		232
+

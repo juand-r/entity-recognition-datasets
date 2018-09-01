@@ -1,0 +1,12 @@
+Files AnEM.train and AnEM.test from AnEM-1.0.4/test are included here
+(in directory CONLL-format/data) and have not been modified.
+
+The corpus is presented in the following manuscript:
+
+* Tomoko Ohta, Sampo Pyysalo, Jun'ichi Tsujii and Sophia Ananiadou (2012).
+  Open-domain Anatomical Entity Mention Detection.
+  In Proceedings of ACL 2012 Workshop on Detecting Structure in
+  Scholarly Discourse (DSSD).
+
+The corpus home page is located at http://www.nactem.ac.uk/anatomy/
+

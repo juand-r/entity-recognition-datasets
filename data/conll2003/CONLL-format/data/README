@@ -1,0 +1,13 @@
+Due to licensing restrictions, we cannot share the CONLL 2003 dataset.
+
+It can be built from the Reuters corpus following the directions here:
+
+https://www.clips.uantwerpen.be/conll2003/ner/
+
+In addition, several github repositories also provide the CONLL 2003 dataset.
+
+
+Place files eng.train, eng.testa (dev data), eng.testb (test data) here,
+and then delete this file.
+
+

@@ -1,0 +1,56 @@
+[entities]
+
+USERNAME
+CITY
+PATIENT
+ZIP
+DOCTOR
+COUNTRY
+HOSPITAL
+PROFESSION
+PHONE
+STATE
+STREET
+MEDICALRECORD
+DATE
+ORGANIZATION
+AGE
+IDNUM
+
+[format]
+
+none
+
+[notes]
+
+[content]
+
+[stats]
+
+        sentences   tokens
+----------------------------
+train   22348       443503
+test    22335       414072
+dev     11306       198558
+----------------------------
+all     55989       1056133
+
+Entities        all
+--------------------------
+AGE		        1997
+USERNAME		356
+IDNUM		    441
+PATIENT		    2196
+DOCTOR		    4798
+PROFESSION		413
+HOSPITAL		2273
+STREET		    352
+STATE		    504
+ZIP		        352
+CITY		    653
+COUNTRY		    183
+ORGANIZATION	206
+DATE		    12343
+MEDICALRECORD	1028
+PHONE		    521
+

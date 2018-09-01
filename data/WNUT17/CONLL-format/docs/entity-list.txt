@@ -1,0 +1,38 @@
+[entities]
+
+person
+location
+group
+corporation
+product
+creative-work
+
+[format]
+
+IOB2
+
+[notes]
+
+[content]
+
+Twitter
+
+[stats]
+
+        tokens  sentences
+-------------------------
+train   62730   3394
+test    23394   1287
+dev     15733   1009
+all     101857  5690
+
+Entities:
+                train   test    dev     all
+--------------------------------------------
+person          660     429     470     1559
+location        548     150     74      772
+group           264     165     39      468
+corporation     221     66      34      321
+product         142     127     114     383
+creative-work   140     142     104     386
+
