@@ -8,6 +8,8 @@ annotated with a variety of entity types.
 Datasets
 ========
 
+.. |check| unicode:: 0x2714
+
 The following table shows the list of datasets. The `data` directory also
 contains information on where to obtain those datasets which could not be shared
 due to licensing restrictions, as well as code to convert them (if necessary)
@@ -22,21 +24,21 @@ MUC-6           News               LDC                  Grishman and Sundheim, 1
 OntoNotes 5     Various            LDC                  Weischedel et al., 2013         LDC 2013T19
 BBN             Various            LDC                  Weischedel & Brunstein, 2005    LDC 2005T33
 GMB-1.0.0       Various            None                 Bos et al., 2017                http://gmb.let.rug.nl/
-GUM             Wiki               Several (*2)         Zeldes, 2016                   Included here
-wikigold        Wikipedia          CC-BY 4.0            Balasuriya et al., 2009         Included here
+GUM             Wiki               Several (*2)         Zeldes, 2016                    |check| Included here
+wikigold        Wikipedia          CC-BY 4.0            Balasuriya et al., 2009         |check| Included here
 WiNER           Wikipedia          None                 Ghaddar & Langlais, 2017        github.com/ghaddarAbs/WiNER
-Ritter          Twitter            None                 Ritter et al., 2011             Included here
-WNUT17          Twitter            CC-BY 4.0            Derczynski et al., 2017         Included here
-BTC             Twitter            CC-BY 4.0            Derczynski et al., 2016         Included here
+Ritter          Twitter            None                 Ritter et al., 2011             |check| Included here
+WNUT17          Twitter            CC-BY 4.0            Derczynski et al., 2017         |check| Included here
+BTC             Twitter            CC-BY 4.0            Derczynski et al., 2016         |check| Included here
 i2b2-2006       Medical            DUA                  Uzuner et al., 2007             http://www.i2b2.org
 i2b2-2014       Medical            DUA                  Stubbs et al., 2015             http://www.i2b2.org
 CADEC           Medical            CSIRO                Karimi et al., 2015             http://data.csiro.au/
-AnEM            Anatomical         CC-BY-SA 3.0         Ohta et al., 2012               Included here
+AnEM            Anatomical         CC-BY-SA 3.0         Ohta et al., 2012               |check| Included here
 MITRestaurant   Queries            None                 Liu et al., 2013a               http://groups.csail.mit.edu/sls/
 MITMovie        Queries            None                 Liu et al., 2013b               http://groups.csail.mit.edu/sls/
 MalwareTextDB   Malware            None                 Lim et al., 2017                http://www.statnlp.org/
-re3d            Defense            Several (*1)         DSTL, 2017                     Included here
-SEC-filings     Finance            CC-BY 3.0            Alvarado et al., 2015           Included here
+re3d            Defense            Several (*1)         DSTL, 2017                      |check| Included here
+SEC-filings     Finance            CC-BY 3.0            Alvarado et al., 2015           |check| Included here
 Assembly        Robotics           X                    Costa et al., 2017              X
 ============== =============== ======================= =============================== ==================================
 
