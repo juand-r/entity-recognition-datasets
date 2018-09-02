@@ -43,6 +43,9 @@ SEC-filings     Finance            CC-BY 3.0            Alvarado et al., 2015   
 Assembly        Robotics           X                    Costa et al., 2017              X
 ============== =============== ======================= =============================== ==================================
 
+Licenses
+========
+
 Notes on licenses:
 
 (1) re3d ("Relationship and Entity Extraction Evaluation Dataset") contains
