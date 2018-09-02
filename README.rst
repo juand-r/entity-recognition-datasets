@@ -22,7 +22,7 @@ MUC-6           News                LDC                  Grishman and Sundheim, 
 OntoNotes 5     Various             LDC                  Weischedel et al., 2013         LDC 2013T19
 BBN             Various             LDC                  Weischedel & Brunstein, 2005    LDC 2005T33
 GMB-1.0.0       Various             None                 Bos et al., 2017                http://gmb.let.rug.nl/
-GUM             Wiki                Several (2)          Zeldes, 2016                    Included here
+GUM             Wiki                Several (*2)          Zeldes, 2016                    Included here
 wikigold        Wikipedia           CC-BY 4.0            Balasuriya et al., 2009         Included here
 WiNER           Wikipedia           None                 Ghaddar & Langlais, 2017        github.com/ghaddarAbs/WiNER
 Ritter          Twitter             None                 Ritter et al., 2011             Included here
@@ -35,7 +35,7 @@ AnEM            Anatomical          CC-BY-SA 3.0         Ohta et al., 2012      
 MITRestaurant   Spoken queries      None                 Liu et al., 2013a               http://groups.csail.mit.edu/sls/
 MITMovie        Spoken queries      None                 Liu et al., 2013b               http://groups.csail.mit.edu/sls/
 MalwareTextDB   Malware             None                 Lim et al., 2017                http://www.statnlp.org/
-re3d            Defense             Several (1)          DSTL, 2017                      Included here
+re3d            Defense             Several (*1)          DSTL, 2017                      Included here
 SEC-filings     Finance             CC-BY 3.0            Alvarado et al., 2015           Included here
 Assembly        Robotics            X                    Costa et al., 2017              X
 ============== =============== ======================= =============================== ==================================
