@@ -26,7 +26,7 @@ BBN             Various            LDC                  Weischedel & Brunstein, 
 GMB-1.0.0       Various            None                 Bos et al., 2017                http://gmb.let.rug.nl/
 GUM             Wiki               Several (*2)         Zeldes, 2016                    |check| Included here
 wikigold        Wikipedia          CC-BY 4.0            Balasuriya et al., 2009         |check| Included here
-WiNER           Wikipedia          None                 Ghaddar & Langlais, 2017        github.com/ghaddarAbs/WiNER
+WiNER           Wikipedia          None                 Ghaddar & Langlais, 2017        `github.com/ghaddarAbs/WiNER <https://github.com/ghaddarAbs/WiNER>`_
 Ritter          Twitter            None                 Ritter et al., 2011             |check| Included here
 WNUT17          Twitter            CC-BY 4.0            Derczynski et al., 2017         |check| Included here
 BTC             Twitter            CC-BY 4.0            Derczynski et al., 2016         |check| Included here
