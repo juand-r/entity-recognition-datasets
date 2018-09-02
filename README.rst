@@ -13,14 +13,14 @@ contains information on where to obtain those datasets which could not be shared
 due to licensing restrictions, as well as code to convert them (if necessary)
 to the CoNLL 2003 format.
 
-============== ================= ======================= =============================== ==================================
+============== =============== ======================= =============================== ==================================
 Dataset         Domain            License                 Reference                       Availablility
-============== ================= ======================= =============================== ==================================
-CONLL 2003      News                DUA (Reuters data)   Sang and Meulder, 2003          Easy to find
+============== =============== ======================= =============================== ==================================
+CONLL 2003      News                DUA (Reuters)        Sang and Meulder, 2003          Easy to find
 NIST-IEER       News                None                 NIST 1999 IE-ER                 NLTK data
 MUC-6           News                LDC                  Grishman and Sundheim, 1996     LDC 2003T13
-OntoNotes 5     Various             X                    Weischedel et al., 2013         LDC 2013T19
-BBN             Various             LDC                  Weischedel & Brunstein, 2005    LDC 2005T33
+OntoNotes 5     Various             LDC                  Weischedel et al., 2013         LDC 2013T19
+BBN             Various             LDC                  Weischedel and Brunstein, 2005  LDC 2005T33
 GMB-1.0.0       Various             None                 Bos et al., 2017                http://gmb.let.rug.nl/
 GUM             Wiki                Several (2)          Zeldes, 2016                    Included here
 wikigold        Wikipedia           CC-BY 4.0            Balasuriya et al., 2009         Included here
@@ -38,7 +38,7 @@ MalwareTextDB   Malware             None                 Lim et al., 2017       
 re3d            Defense             Several (1)          DSTL, 2017                      Included here
 SEC-filings     Finance             CC-BY 3.0            Alvarado et al., 2015           Included here
 Assembly        Robotics            X                    Costa et al., 2017              X
-============== ================= ======================= =============================== ==================================
+============== =============== ======================= =============================== ==================================
 
 Notes on licenses:
 
