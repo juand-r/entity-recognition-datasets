@@ -62,6 +62,9 @@ several datasets, with different licenses. These are:
 (2) GUM comprises three datasets, with licenses CC-BY 3.0, CC-BY-SA 3.0 and
     CC-BY-NC-SA 3.0. The annotations are licensed under CC-BY 4.0.
 
+More detailed license information for each dataset can be found in
+the corresponding subdirectory.
+
 References
 ==========
 
