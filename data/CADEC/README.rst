@@ -3,7 +3,7 @@ CADEC dataset
 
 The CADEC v.2 dataset was accessed on November 2017 from:
 
-https://data.csiro.au/dap/landingpage?execution=e3s2
+https://data.csiro.au/dap/
 
 NOTE: the original corpus includes nested entities.
 
