@@ -23,7 +23,7 @@ NIST-IEER       News               None                 NIST 1999 IE-ER         
 MUC-6           News               LDC                  Grishman and Sundheim, 1996     LDC 2003T13
 OntoNotes 5     Various            LDC                  Weischedel et al., 2013         LDC 2013T19
 BBN             Various            LDC                  Weischedel & Brunstein, 2005    LDC 2005T33
-GMB-1.0.0       Various            None                 Bos et al., 2017                http://gmb.let.rug.nl/data.php
+GMB-1.0.0       Various            None                 Bos et al., 2017                `http://gmb.let.rug.nl/data.php <http://gmb.let.rug.nl/releases/gmb-1.0.0.zip>`_
 GUM             Wiki               Several (*2)         Zeldes, 2016                    |check| Included here
 wikigold        Wikipedia          CC-BY 4.0            Balasuriya et al., 2009         |check| Included here
 WiNER           Wikipedia          None                 Ghaddar & Langlais, 2017        `github.com/ghaddarAbs/WiNER <https://github.com/ghaddarAbs/WiNER>`_
