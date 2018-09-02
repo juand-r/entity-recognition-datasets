@@ -19,7 +19,7 @@ to the CoNLL 2003 format.
 Dataset         Domain            License                 Reference                       Availablility
 ============== =============== ======================= =============================== ==================================
 CONLL 2003      News               DUA (Reuters)        Sang and Meulder, 2003          Easy to find
-NIST-IEER       News               None                 NIST 1999 IE-ER                 NLTK data
+NIST-IEER       News               None                 NIST 1999 IE-ER                 `NLTK data <https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/ieer.zip>`_
 MUC-6           News               LDC                  Grishman and Sundheim, 1996     LDC 2003T13
 OntoNotes 5     Various            LDC                  Weischedel et al., 2013         LDC 2013T19
 BBN             Various            LDC                  Weischedel & Brunstein, 2005    LDC 2005T33
