@@ -30,7 +30,7 @@ WNUT17          Twitter            CC-BY 4.0            Derczynski et al., 2017 
 BTC             Twitter            CC-BY 4.0            Derczynski et al., 2016         Included here
 i2b2-2006       Medical            DUA                  Uzuner et al., 2007             http://www.i2b2.org
 i2b2-2014       Medical            DUA                  Stubbs et al., 2015             http://www.i2b2.org
-CADEC           Medical            CSIRO Data Licence   Karimi et al., 2015             http://data.csiro.au/
+CADEC           Medical            CSIRO                Karimi et al., 2015             http://data.csiro.au/
 AnEM            Anatomical         CC-BY-SA 3.0         Ohta et al., 2012               Included here
 MITRestaurant   Queries            None                 Liu et al., 2013a               http://groups.csail.mit.edu/sls/
 MITMovie        Queries            None                 Liu et al., 2013b               http://groups.csail.mit.edu/sls/
