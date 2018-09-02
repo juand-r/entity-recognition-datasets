@@ -16,28 +16,28 @@ to the CoNLL 2003 format.
 ============== =============== ======================= =============================== ==================================
 Dataset         Domain            License                 Reference                       Availablility
 ============== =============== ======================= =============================== ==================================
-CONLL 2003      News                DUA (Reuters)        Sang and Meulder, 2003          Easy to find
-NIST-IEER       News                None                 NIST 1999 IE-ER                 NLTK data
-MUC-6           News                LDC                  Grishman and Sundheim, 1996       LDC 2003T13
-OntoNotes 5     Various             LDC                  Weischedel et al., 2013         LDC 2013T19
-BBN             Various             LDC                  Weischedel & Brunstein, 2005    LDC 2005T33
-GMB-1.0.0       Various             None                 Bos et al., 2017                http://gmb.let.rug.nl/
-GUM             Wiki                Several (*2)          Zeldes, 2016                    Included here
-wikigold        Wikipedia           CC-BY 4.0            Balasuriya et al., 2009         Included here
-WiNER           Wikipedia           None                 Ghaddar & Langlais, 2017        github.com/ghaddarAbs/WiNER
-Ritter          Twitter             None                 Ritter et al., 2011             Included here
-WNUT17          Twitter             CC-BY 4.0            Derczynski et al., 2017         Included here
-BTC             Twitter             CC-BY 4.0            Derczynski et al., 2016         Included here
-i2b2-2006       Medical             DUA                  Uzuner et al., 2007             http://www.i2b2.org
-i2b2-2014       Medical             DUA                  Stubbs et al., 2015             http://www.i2b2.org
-CADEC           Medical             CSIRO Data Licence   Karimi et al., 2015             http://data.csiro.au/
-AnEM            Anatomical          CC-BY-SA 3.0         Ohta et al., 2012               Included here
-MITRestaurant   Spoken queries      None                 Liu et al., 2013a               http://groups.csail.mit.edu/sls/
-MITMovie        Spoken queries      None                 Liu et al., 2013b               http://groups.csail.mit.edu/sls/
-MalwareTextDB   Malware             None                 Lim et al., 2017                http://www.statnlp.org/
-re3d            Defense             Several (*1)          DSTL, 2017                      Included here
-SEC-filings     Finance             CC-BY 3.0            Alvarado et al., 2015           Included here
-Assembly        Robotics            X                    Costa et al., 2017              X
+CONLL 2003      News               DUA (Reuters)        Sang and Meulder, 2003          Easy to find
+NIST-IEER       News               None                 NIST 1999 IE-ER                 NLTK data
+MUC-6           News               LDC                  Grishman and Sundheim, 1996     LDC 2003T13
+OntoNotes 5     Various            LDC                  Weischedel et al., 2013         LDC 2013T19
+BBN             Various            LDC                  Weischedel & Brunstein, 2005    LDC 2005T33
+GMB-1.0.0       Various            None                 Bos et al., 2017                http://gmb.let.rug.nl/
+GUM             Wiki               Several (*2)         Zeldes, 2016                   Included here
+wikigold        Wikipedia          CC-BY 4.0            Balasuriya et al., 2009         Included here
+WiNER           Wikipedia          None                 Ghaddar & Langlais, 2017        github.com/ghaddarAbs/WiNER
+Ritter          Twitter            None                 Ritter et al., 2011             Included here
+WNUT17          Twitter            CC-BY 4.0            Derczynski et al., 2017         Included here
+BTC             Twitter            CC-BY 4.0            Derczynski et al., 2016         Included here
+i2b2-2006       Medical            DUA                  Uzuner et al., 2007             http://www.i2b2.org
+i2b2-2014       Medical            DUA                  Stubbs et al., 2015             http://www.i2b2.org
+CADEC           Medical            CSIRO Data Licence   Karimi et al., 2015             http://data.csiro.au/
+AnEM            Anatomical         CC-BY-SA 3.0         Ohta et al., 2012               Included here
+MITRestaurant   Queries            None                 Liu et al., 2013a               http://groups.csail.mit.edu/sls/
+MITMovie        Queries            None                 Liu et al., 2013b               http://groups.csail.mit.edu/sls/
+MalwareTextDB   Malware            None                 Lim et al., 2017                http://www.statnlp.org/
+re3d            Defense            Several (*1)         DSTL, 2017                     Included here
+SEC-filings     Finance            CC-BY 3.0            Alvarado et al., 2015           Included here
+Assembly        Robotics           X                    Costa et al., 2017              X
 ============== =============== ======================= =============================== ==================================
 
 Notes on licenses:
