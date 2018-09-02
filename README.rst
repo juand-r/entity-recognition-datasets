@@ -34,8 +34,8 @@ i2b2-2006       Medical            DUA                  Uzuner et al., 2007     
 i2b2-2014       Medical            DUA                  Stubbs et al., 2015             http://www.i2b2.org
 CADEC           Medical            CSIRO                Karimi et al., 2015             http://data.csiro.au/
 AnEM            Anatomical         CC-BY-SA 3.0         Ohta et al., 2012               |check| Included here
-MITRestaurant   Queries            None                 Liu et al., 2013a               http://groups.csail.mit.edu/sls/
-MITMovie        Queries            None                 Liu et al., 2013b               http://groups.csail.mit.edu/sls/
+MITRestaurant   Queries            None                 Liu et al., 2013a               `http://groups.csail.mit.edu/sls/ <https://groups.csail.mit.edu/sls/downloads/restaurant/>`_
+MITMovie        Queries            None                 Liu et al., 2013b               `http://groups.csail.mit.edu/sls/ <https://groups.csail.mit.edu/sls/downloads/movie/>`_
 MalwareTextDB   Malware            None                 Lim et al., 2017                http://www.statnlp.org/
 re3d            Defense            Several (*1)         DSTL, 2017                      |check| Included here
 SEC-filings     Finance            CC-BY 3.0            Alvarado et al., 2015           |check| Included here
