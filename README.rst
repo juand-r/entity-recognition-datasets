@@ -71,6 +71,9 @@ NER in other languages
 - Europeana Newspapers (Dutch, French, German): https://github.com/EuropeanaNewspapers/ner-corpora
 - HAREM (Portuguese): https://www.linguateca.pt/aval_conjunta/HAREM/harem_ing.html
 - AnCora (Spanish, Catalan): http://clic.ub.edu/corpus/en
+- CoNLL 2002 (Spanish, Dutch): https://www.clips.uantwerpen.be/conll2002/ner/
+
+
 
 A long list can be found here: http://damien.nouvels.net/resourcesen/corpora.html
 
