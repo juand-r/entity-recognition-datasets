@@ -78,7 +78,7 @@ NER in other languages
 - Evalita (Italian): http://www.evalita.it/2009/tasks/entity
 - ESTER (French): http://catalogue.elra.info/en-us/repository/browse/ELRA-S0241/
 - Hungarian Named Entity Corpora: http://rgai.inf.u-szeged.hu/index.php?lang=en&page=corpus_ne 
-
+- Stockholm Internet Corpus (Swedish): https://www.ling.su.se/english/nlp/corpora-and-resources/sic
 
 A long list can be found here: http://damien.nouvels.net/resourcesen/corpora.html
 
