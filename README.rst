@@ -72,7 +72,8 @@ NER in other languages
 - HAREM (Portuguese): https://www.linguateca.pt/aval_conjunta/HAREM/harem_ing.html
 - AnCora (Spanish, Catalan): http://clic.ub.edu/corpus/en
 - CoNLL 2002 (Spanish, Dutch): https://www.clips.uantwerpen.be/conll2002/ner/
-
+- CoNLL 2003 (German): https://www.clips.uantwerpen.be/conll2003/ner/
+- GermEval 2014 (German): https://sites.google.com/site/germeval2014ner/data
 
 
 A long list can be found here: http://damien.nouvels.net/resourcesen/corpora.html
