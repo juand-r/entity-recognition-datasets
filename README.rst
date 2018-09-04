@@ -74,6 +74,7 @@ NER in other languages
 - CoNLL 2002 (Spanish, Dutch): https://www.clips.uantwerpen.be/conll2002/ner/
 - CoNLL 2003 (German): https://www.clips.uantwerpen.be/conll2003/ner/
 - GermEval 2014 (German): https://sites.google.com/site/germeval2014ner/data
+- Tübingen Treebank of Written German (TüBa-D/Z): http://www.sfs.uni-tuebingen.de/en/ascl/resources/corpora/tueba-dz.html
 - Evalita (Italian): http://www.evalita.it/2009/tasks/entity
 - ESTER (French): http://catalogue.elra.info/en-us/repository/browse/ELRA-S0241/
 
