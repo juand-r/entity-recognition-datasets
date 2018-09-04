@@ -65,6 +65,15 @@ several datasets, with different licenses. These are:
 More detailed license information for each dataset can be found in
 the corresponding subdirectory.
 
+NER in other languages
+======================
+
+- Europeana Newspapers (Dutch, French, German): https://github.com/EuropeanaNewspapers/ner-corpora
+- HAREM (Portuguese): https://www.linguateca.pt/aval_conjunta/HAREM/harem_ing.html
+- AnCora (Spanish, Catalan): http://clic.ub.edu/corpus/en
+
+A long list can be found here: http://damien.nouvels.net/resourcesen/corpora.html
+
 References
 ==========
 
