@@ -77,6 +77,8 @@ NER in other languages
 - Tübingen Treebank of Written German (TüBa-D/Z): http://www.sfs.uni-tuebingen.de/en/ascl/resources/corpora/tueba-dz.html
 - Evalita (Italian): http://www.evalita.it/2009/tasks/entity
 - ESTER (French): http://catalogue.elra.info/en-us/repository/browse/ELRA-S0241/
+- Hungarian Named Entity Corpora: http://rgai.inf.u-szeged.hu/index.php?lang=en&page=corpus_ne 
+
 
 A long list can be found here: http://damien.nouvels.net/resourcesen/corpora.html
 
