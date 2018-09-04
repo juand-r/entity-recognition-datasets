@@ -74,7 +74,8 @@ NER in other languages
 - CoNLL 2002 (Spanish, Dutch): https://www.clips.uantwerpen.be/conll2002/ner/
 - CoNLL 2003 (German): https://www.clips.uantwerpen.be/conll2003/ner/
 - GermEval 2014 (German): https://sites.google.com/site/germeval2014ner/data
-
+- Evalita (Italian): http://www.evalita.it/2009/tasks/entity
+- ESTER (French): http://catalogue.elra.info/en-us/repository/browse/ELRA-S0241/
 
 A long list can be found here: http://damien.nouvels.net/resourcesen/corpora.html
 
