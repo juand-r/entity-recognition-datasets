@@ -75,6 +75,7 @@ German
 - GermEval 2014: https://sites.google.com/site/germeval2014ner/data
 - Tübingen Treebank of Written German (TüBa-D/Z): http://www.sfs.uni-tuebingen.de/en/ascl/resources/corpora/tueba-dz.html
 - Europeana Newspapers (Dutch, French, German): https://github.com/EuropeanaNewspapers/ner-corpora
+- German EUROPARL transcripts (subset): https://nlpado.de/~sebastian/software/ner_german.shtml
 
 Dutch
 -----
