@@ -96,6 +96,7 @@ French
 ------
 
 - ESTER: http://catalogue.elra.info/en-us/repository/browse/ELRA-S0241/
+- ETAPE: http://catalogue.elra.info/en-us/repository/browse/ELRA-E0046/
 - Europeana Newspapers (Dutch, French, German): https://github.com/EuropeanaNewspapers/ner-corpora
 
 Italian
