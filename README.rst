@@ -107,6 +107,12 @@ Hungarian
 ---------
 
 - Hungarian Named Entity Corpora: http://rgai.inf.u-szeged.hu/index.php?lang=en&page=corpus_ne
+- hunNERwiki: http://hlt.sztaki.hu/resources/hunnerwiki.html
+
+Czech
+-----
+
+Czech Named Entity Corpus: http://ufal.mff.cuni.cz/cnec
 
 Swedish
 -------
