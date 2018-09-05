@@ -112,13 +112,19 @@ Hungarian
 Czech
 -----
 
-Czech Named Entity Corpus: http://ufal.mff.cuni.cz/cnec
+- Czech Named Entity Corpus: http://ufal.mff.cuni.cz/cnec
+- BSNLP 2017 (Croatian, Czech, Polish, Russian, Slovak, Slovene, Ukrainian): http://bsnlp-2017.cs.helsinki.fi/shared_task_results.html
+
 
 Swedish
 -------
 
 - Stockholm Internet Corpus: https://www.ling.su.se/english/nlp/corpora-and-resources/sic
 
+Estonian
+--------
+
+- Estonian NER corpus: https://metashare.ut.ee/repository/browse/estonian-ner-corpus/88d030c0acde11e2a6e4005056b40024f1def472ed254e77a8952e1003d9f81e/
 
 A long list can be found here: http://damien.nouvels.net/resourcesen/corpora.html
 
