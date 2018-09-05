@@ -86,6 +86,7 @@ Spanish
 
 - CoNLL 2002 (Spanish, Dutch): https://www.clips.uantwerpen.be/conll2002/ner/
 - AnCora (Spanish, Catalan): http://clic.ub.edu/corpus/en
+- DEFT Spanish Treebank (LDC2018T01): https://catalog.ldc.upenn.edu/LDC2018T01
 
 Portuguese
 ----------
