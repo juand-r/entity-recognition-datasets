@@ -67,17 +67,52 @@ the corresponding subdirectory.
 NER in other languages
 ======================
 
-- Europeana Newspapers (Dutch, French, German): https://github.com/EuropeanaNewspapers/ner-corpora
-- HAREM (Portuguese): https://www.linguateca.pt/aval_conjunta/HAREM/harem_ing.html
-- AnCora (Spanish, Catalan): http://clic.ub.edu/corpus/en
-- CoNLL 2002 (Spanish, Dutch): https://www.clips.uantwerpen.be/conll2002/ner/
+German
+------
+
 - CoNLL 2003 (German): https://www.clips.uantwerpen.be/conll2003/ner/
-- GermEval 2014 (German): https://sites.google.com/site/germeval2014ner/data
+- GermEval 2014: https://sites.google.com/site/germeval2014ner/data
 - Tübingen Treebank of Written German (TüBa-D/Z): http://www.sfs.uni-tuebingen.de/en/ascl/resources/corpora/tueba-dz.html
-- Evalita (Italian): http://www.evalita.it/2009/tasks/entity
-- ESTER (French): http://catalogue.elra.info/en-us/repository/browse/ELRA-S0241/
-- Hungarian Named Entity Corpora: http://rgai.inf.u-szeged.hu/index.php?lang=en&page=corpus_ne 
-- Stockholm Internet Corpus (Swedish): https://www.ling.su.se/english/nlp/corpora-and-resources/sic
+- Europeana Newspapers (Dutch, French, German): https://github.com/EuropeanaNewspapers/ner-corpora
+
+Dutch
+-----
+
+- CoNLL 2002 (Spanish, Dutch): https://www.clips.uantwerpen.be/conll2002/ner/
+- Europeana Newspapers (Dutch, French, German): https://github.com/EuropeanaNewspapers/ner-corpora
+
+Spanish
+-------
+
+- CoNLL 2002 (Spanish, Dutch): https://www.clips.uantwerpen.be/conll2002/ner/
+- AnCora (Spanish, Catalan): http://clic.ub.edu/corpus/en
+
+Portuguese
+----------
+
+- HAREM: https://www.linguateca.pt/aval_conjunta/HAREM/harem_ing.html
+
+French
+------
+
+- ESTER: http://catalogue.elra.info/en-us/repository/browse/ELRA-S0241/
+- Europeana Newspapers (Dutch, French, German): https://github.com/EuropeanaNewspapers/ner-corpora
+
+Italian
+-------
+
+- Evalita: http://www.evalita.it/2009/tasks/entity
+
+Hungarian
+---------
+
+- Hungarian Named Entity Corpora: http://rgai.inf.u-szeged.hu/index.php?lang=en&page=corpus_ne
+
+Swedish
+-------
+
+- Stockholm Internet Corpus: https://www.ling.su.se/english/nlp/corpora-and-resources/sic
+
 
 A long list can be found here: http://damien.nouvels.net/resourcesen/corpora.html
 
