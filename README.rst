@@ -115,6 +115,11 @@ Czech
 - Czech Named Entity Corpus: http://ufal.mff.cuni.cz/cnec
 - BSNLP 2017 (Croatian, Czech, Polish, Russian, Slovak, Slovene, Ukrainian): http://bsnlp-2017.cs.helsinki.fi/shared_task_results.html
 
+Polish
+------
+
+- The Polish Sejm Corpus: http://clip.ipipan.waw.pl/PSC
+- BSNLP 2017 (Croatian, Czech, Polish, Russian, Slovak, Slovene, Ukrainian): http://bsnlp-2017.cs.helsinki.fi/shared_task_results.html
 
 Swedish
 -------
@@ -125,6 +130,12 @@ Estonian
 --------
 
 - Estonian NER corpus: https://metashare.ut.ee/repository/browse/estonian-ner-corpus/88d030c0acde11e2a6e4005056b40024f1def472ed254e77a8952e1003d9f81e/
+
+Basque
+------
+
+- Basque Named Entities Corpus (EIEC): http://ixa.eus/node/4486?language=en
+- Basque Disambiguated Named Entities Corpus (EDIEC): http://ixa.si.ehu.es/node/4485?language=en
 
 A long list can be found here: http://damien.nouvels.net/resourcesen/corpora.html
 
