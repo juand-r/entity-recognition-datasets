@@ -4,7 +4,8 @@ Datasets for Entity Recognition
 
 This repository contains English-language datasets from several domains
 annotated with a variety of entity types, useful for entity recognition and
-named entity recognition (NER) tasks.
+named entity recognition (NER) tasks. Links to NER corpora in other languages
+are also listed below.
 
 Datasets
 ========
