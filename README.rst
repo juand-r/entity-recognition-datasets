@@ -115,6 +115,12 @@ Italian
 - PANACEA (ENV): http://panacea-lr.eu/en/info-for-researchers/data-sets/dependency-parsed-corpora/dependency-env-it
 - PANACEA (LAB): http://panacea-lr.eu/en/info-for-researchers/data-sets/dependency-parsed-corpora/dependency-lab-it
 
+Romanian
+--------
+
+- Romanian journalistic corpus (ROCO): http://metashare.elda.org/repository/browse/romanian-journalistic-corpus-roco/038baa80dc7311e5aa0b00237df3e3583781d7c0f2084057aa018a2d63d987e9/
+- Romanian Balanced Corpus (ROMBAC): http://metashare.elda.org/repository/browse/romanian-balanced-corpus-rombac/0a7dd85edc7311e5aa0b00237df3e35873a0d662435d42dd94fba48c29dc0065/
+
 Greek
 -----
 
