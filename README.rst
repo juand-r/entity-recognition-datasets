@@ -141,6 +141,13 @@ Basque
 - Basque Named Entities Corpus (EIEC): http://ixa.eus/node/4486?language=en
 - Basque Disambiguated Named Entities Corpus (EDIEC): http://ixa.si.ehu.es/node/4485?language=en
 
+Japanese
+--------
+
+- MET-2 (Japanese, Chinese): https://www-nlpir.nist.gov/related_projects/muc/
+- BCCWJ Basic NE corpus: https://sites.google.com/site/projectnextnlpne/en
+
+
 A long list can be found here: http://damien.nouvels.net/resourcesen/corpora.html
 
 References
