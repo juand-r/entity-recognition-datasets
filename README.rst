@@ -90,6 +90,8 @@ Spanish
 - CoNLL 2002 (Spanish, Dutch): https://www.clips.uantwerpen.be/conll2002/ner/
 - AnCora (Spanish, Catalan): http://clic.ub.edu/corpus/en
 - DEFT Spanish Treebank (LDC2018T01): https://catalog.ldc.upenn.edu/LDC2018T01
+- PANACEA (LAB): http://panacea-lr.eu/en/info-for-researchers/data-sets/dependency-parsed-corpora/dependency-lab-es
+- PANACEA (ENV): http://panacea-lr.eu/en/info-for-researchers/data-sets/dependency-parsed-corpora/dependency-env-es
 - MEANTIME Corpus (Parallel corpus: English, Spanish, Italian, Dutch): http://www.newsreader-project.eu/results/data/wikinews/
 
 Portuguese
@@ -110,6 +112,8 @@ Italian
 
 - Evalita: http://www.evalita.it/2009/tasks/entity
 - MEANTIME Corpus (Parallel corpus: English, Spanish, Italian, Dutch): http://www.newsreader-project.eu/results/data/wikinews/
+- PANACEA (ENV): http://panacea-lr.eu/en/info-for-researchers/data-sets/dependency-parsed-corpora/dependency-env-it
+- PANACEA (LAB): http://panacea-lr.eu/en/info-for-researchers/data-sets/dependency-parsed-corpora/dependency-lab-it
 
 Hungarian
 ---------
