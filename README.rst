@@ -107,6 +107,8 @@ French
 - ETAPE: http://catalogue.elra.info/en-us/repository/browse/ELRA-E0046/
 - Europeana Newspapers (Dutch, French, German): https://github.com/EuropeanaNewspapers/ner-corpora
 - QUAERO French Medical Corpus: https://quaerofrenchmed.limsi.fr/
+- Quaero Broadcast News Extended Named Entity Corpus: http://catalog.elra.info/en-us/repository/browse/ELRA-S0349/
+- Quaero Old Press Extended Named Entity corpus: http://catalog.elra.info/en-us/repository/browse/ELRA-W0073/ 
 
 Italian
 -------
