@@ -144,6 +144,7 @@ Polish
 
 - The Polish Sejm Corpus: http://clip.ipipan.waw.pl/PSC
 - BSNLP 2017 (Croatian, Czech, Polish, Russian, Slovak, Slovene, Ukrainian): http://bsnlp-2017.cs.helsinki.fi/shared_task_results.html
+- Polish Coreference Corpus: http://zil.ipipan.waw.pl/PolishCoreferenceCorpus
 
 Swedish
 -------
