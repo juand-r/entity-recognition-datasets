@@ -139,6 +139,11 @@ Czech
 - Czech Named Entity Corpus: http://ufal.mff.cuni.cz/cnec
 - BSNLP 2017 (Croatian, Czech, Polish, Russian, Slovak, Slovene, Ukrainian): http://bsnlp-2017.cs.helsinki.fi/shared_task_results.html
 
+Serbian
+-------
+
+- Named Entities evaluation corpus for Serbian: http://www.korpus.matf.bg.ac.rs/SrpNEval/
+
 Polish
 ------
 
@@ -167,12 +172,16 @@ Turkish
 
 - Named Entity Recognition on Turkish Tweets: http://optima.jrc.it/Resources/ 2014_JRC_Twitter_TR_NER-dataset.zip
 
+Indonesian
+----------
+
+- IDENTIC: http://metashare.elda.org/repository/browse/identic/fed3fada7ef111e5aa3b001dd8b71c66c98eee36eabd42f18ffd9a95da9104cc/
+
 Japanese
 --------
 
 - MET-2 (Japanese, Chinese): https://www-nlpir.nist.gov/related_projects/muc/
 - BCCWJ Basic NE corpus: https://sites.google.com/site/projectnextnlpne/en
-
 
 A long list can be found here: http://damien.nouvels.net/resourcesen/corpora.html
 
