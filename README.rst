@@ -96,6 +96,7 @@ Portuguese
 ----------
 
 - HAREM: https://www.linguateca.pt/aval_conjunta/HAREM/harem_ing.html
+- CINTIL corpus: http://cintil.ul.pt/cintilfeatures.html#corpus
 
 French
 ------
