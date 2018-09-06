@@ -187,7 +187,7 @@ Japanese
 - MET-2 (Japanese, Chinese): https://www-nlpir.nist.gov/related_projects/muc/
 - BCCWJ Basic NE corpus: https://sites.google.com/site/projectnextnlpne/en
 
-A long list can be found here: http://damien.nouvels.net/resourcesen/corpora.html
+A long list can be found here: http://damien.nouvels.net/resourcesen/corpora.html; more datasets listed here: https://www.clarin.eu/resource-families/newspaper-corpora
 
 References
 ==========
