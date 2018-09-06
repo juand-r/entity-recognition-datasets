@@ -76,6 +76,7 @@ German
 - Tübingen Treebank of Written German (TüBa-D/Z): http://www.sfs.uni-tuebingen.de/en/ascl/resources/corpora/tueba-dz.html
 - Europeana Newspapers (Dutch, French, German): https://github.com/EuropeanaNewspapers/ner-corpora
 - German EUROPARL transcripts (subset): https://nlpado.de/~sebastian/software/ner_german.shtml
+- Named Entity Model for German, Politics (NEMGP): https://www.thomas-zastrow.de/nlp/
 
 Dutch
 -----
