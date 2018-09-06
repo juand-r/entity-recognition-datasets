@@ -145,6 +145,11 @@ Basque
 - Basque Named Entities Corpus (EIEC): http://ixa.eus/node/4486?language=en
 - Basque Disambiguated Named Entities Corpus (EDIEC): http://ixa.si.ehu.es/node/4485?language=en
 
+Turkish
+-------
+
+- Named Entity Recognition on Turkish Tweets: http://optima.jrc.it/Resources/ 2014_JRC_Twitter_TR_NER-dataset.zip
+
 Japanese
 --------
 
