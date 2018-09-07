@@ -111,6 +111,7 @@ French
 ------
 
 - ESTER: http://catalogue.elra.info/en-us/repository/browse/ELRA-S0241/
+- ESTER 2: http://catalogue.elra.info/en-us/repository/browse/ELRA-S0338/
 - ETAPE: http://catalogue.elra.info/en-us/repository/browse/ELRA-E0046/
 - Europeana Newspapers (Dutch, French, German): https://github.com/EuropeanaNewspapers/ner-corpora
 - QUAERO French Medical Corpus: https://quaerofrenchmed.limsi.fr/
