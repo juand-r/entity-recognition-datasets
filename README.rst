@@ -223,6 +223,8 @@ Chinese
 - MET-2 (Japanese, Chinese): https://www-nlpir.nist.gov/related_projects/muc/
 - REFLEX Entity Translation (Parallel corpus: English, Arabic, Chinese): https://catalog.ldc.upenn.edu/LDC2009T11
 - NE3L named entities Chinese corpus (Arabic, Chinese, Russian): http://catalogue.elra.info/en-us/repository/browse/ELRA-W0079/
+- Original Short-Message Data Collation I in Chinese (named entities): http://catalog.elra.info/en-us/repository/browse/ELRA-W0045_04/ 
+- Original Short-Message Data Collation II in Chinese (named entities): http://catalog.elra.info/en-us/repository/browse/ELRA-W0045_08/
 
 Russian
 -------
