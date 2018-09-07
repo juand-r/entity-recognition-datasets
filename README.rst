@@ -181,6 +181,9 @@ Arabic
 ------
 
 - AQMAR Arabic Wikipedia Named Entity Corpus: http://www.cs.cmu.edu/~ark/ArabicNER/
+- NE3L named entities Arabic corpus (also: Chinese and Russian): http://catalog.elra.info/en-us/repository/browse/ELRA-W0078/
+- REFLEX Entity Translation (Parallel corpus: English, Arabic, Chinese): https://catalog.ldc.upenn.edu/LDC2009T11
+- ANERCorp: http://users.dsic.upv.es/~ybenajiba/downloads.html
 
 Indonesian
 ----------
