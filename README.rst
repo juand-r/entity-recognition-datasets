@@ -229,6 +229,11 @@ Arabic
 - ACE 2007 (Spanish and Arabic): https://catalog.ldc.upenn.edu/LDC2014T18
 - OntoNotes 5 (English, Arabic, Chinese): https://catalog.ldc.upenn.edu/LDC2013T19
 
+Persian
+-------
+
+ArmanPersoNERCorpus: http://islrn.org/resources/399-379-640-828-6/ ; https://github.com/HaniehP/PersianNER
+
 Telugu
 ------
 
