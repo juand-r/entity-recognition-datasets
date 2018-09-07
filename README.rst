@@ -68,6 +68,11 @@ the corresponding subdirectory.
 NER in other languages
 ======================
 
+Latin
+-----
+
+- Herodotos Project: https://github.com/alexerdmann/Herodotos_Project_Annotation
+
 German
 ------
 
