@@ -185,6 +185,10 @@ Arabic
 - REFLEX Entity Translation (Parallel corpus: English, Arabic, Chinese): https://catalog.ldc.upenn.edu/LDC2009T11
 - ANERCorp: http://users.dsic.upv.es/~ybenajiba/downloads.html
 
+Telugu
+
+- NER_Telugu: https://github.com/anikethjr/NER_Telugu
+
 Indonesian
 ----------
 
