@@ -189,6 +189,11 @@ Serbian
 
 - Named Entities evaluation corpus for Serbian: http://www.korpus.matf.bg.ac.rs/SrpNEval/
 
+Bulgarian
+---------
+
+- BulTreeBank (BTB)
+
 Swedish
 -------
 
