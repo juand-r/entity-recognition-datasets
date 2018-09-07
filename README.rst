@@ -174,6 +174,7 @@ Slovak
 ------
 
 - BSNLP 2017 (Croatian, Czech, Polish, Russian, Slovak, Slovene, Ukrainian): http://bsnlp-2017.cs.helsinki.fi/shared_task_results.html
+- Slovak Categorized News Corpus: https://nlp.web.tuke.sk/pages/categorizednews
 
 Slovene
 -------
