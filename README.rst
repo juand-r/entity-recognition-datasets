@@ -246,6 +246,11 @@ Persian
 
 - ArmanPersoNERCorpus: http://islrn.org/resources/399-379-640-828-6/ ; https://github.com/HaniehP/PersianNER
 
+Hindi
+-----
+
+- Hindi-English social media text (code-switching): https://github.com/SilentFlame/Named-Entity-Recognition ; http://aclweb.org/anthology/W18-2405
+
 Telugu
 ------
 
