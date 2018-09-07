@@ -71,7 +71,7 @@ NER in other languages
 German
 ------
 
-- CoNLL 2003 (German): https://www.clips.uantwerpen.be/conll2003/ner/
+- CoNLL 2003 (English, German): https://www.clips.uantwerpen.be/conll2003/ner/
 - GermEval 2014: https://sites.google.com/site/germeval2014ner/data
 - Tübingen Treebank of Written German (TüBa-D/Z): http://www.sfs.uni-tuebingen.de/en/ascl/resources/corpora/tueba-dz.html
 - Europeana Newspapers (Dutch, French, German): https://github.com/EuropeanaNewspapers/ner-corpora
