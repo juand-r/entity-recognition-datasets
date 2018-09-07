@@ -149,17 +149,17 @@ Czech
 - Czech Named Entity Corpus: http://ufal.mff.cuni.cz/cnec
 - BSNLP 2017 (Croatian, Czech, Polish, Russian, Slovak, Slovene, Ukrainian): http://bsnlp-2017.cs.helsinki.fi/shared_task_results.html
 
-Serbian
--------
-
-- Named Entities evaluation corpus for Serbian: http://www.korpus.matf.bg.ac.rs/SrpNEval/
-
 Polish
 ------
 
 - The Polish Sejm Corpus: http://clip.ipipan.waw.pl/PSC
 - BSNLP 2017 (Croatian, Czech, Polish, Russian, Slovak, Slovene, Ukrainian): http://bsnlp-2017.cs.helsinki.fi/shared_task_results.html
 - Polish Coreference Corpus: http://zil.ipipan.waw.pl/PolishCoreferenceCorpus
+
+Serbian
+-------
+
+- Named Entities evaluation corpus for Serbian: http://www.korpus.matf.bg.ac.rs/SrpNEval/
 
 Swedish
 -------
@@ -187,7 +187,7 @@ Arabic
 ------
 
 - AQMAR Arabic Wikipedia Named Entity Corpus: http://www.cs.cmu.edu/~ark/ArabicNER/
-- NE3L named entities Arabic corpus (also: Chinese and Russian): http://catalog.elra.info/en-us/repository/browse/ELRA-W0078/
+- NE3L named entities Arabic corpus (Arabic, Chinese, Russian): http://catalog.elra.info/en-us/repository/browse/ELRA-W0078/
 - REFLEX Entity Translation (Parallel corpus: English, Arabic, Chinese): https://catalog.ldc.upenn.edu/LDC2009T11
 - ANERCorp: http://users.dsic.upv.es/~ybenajiba/downloads.html
 - ACE 2007 (Spanish and Arabic): https://catalog.ldc.upenn.edu/LDC2014T18
@@ -214,12 +214,14 @@ Chinese
 
 - ACE 2005 (English, Chinese, Arabic): https://catalog.ldc.upenn.edu/LDC2006T06
 - MET-2 (Japanese, Chinese): https://www-nlpir.nist.gov/related_projects/muc/
+- REFLEX Entity Translation (Parallel corpus: English, Arabic, Chinese): https://catalog.ldc.upenn.edu/LDC2009T11
+- NE3L named entities Chinese corpus (Arabic, Chinese, Russian): http://catalogue.elra.info/en-us/repository/browse/ELRA-W0079/
 
 Russian
 -------
 
 - BSNLP 2017 (Croatian, Czech, Polish, Russian, Slovak, Slovene, Ukrainian): http://bsnlp-2017.cs.helsinki.fi/shared_task_results.html
-
+- NE3L named entities Russian corpus (Arabic, Chinese, Russian): https://catalog.elra.info/en-us/repository/browse/ELRA-W0080/
 
 A long list can be found here: http://damien.nouvels.net/resourcesen/corpora.html; more datasets listed here: https://www.clarin.eu/resource-families/newspaper-corpora
 
