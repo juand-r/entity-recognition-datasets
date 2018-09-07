@@ -96,6 +96,11 @@ Spanish
 - MEANTIME Corpus (Parallel corpus: English, Spanish, Italian, Dutch): http://www.newsreader-project.eu/results/data/wikinews/
 - ACE 2007 (Spanish and Arabic): https://catalog.ldc.upenn.edu/LDC2014T18
 
+Catalan
+-------
+
+- AnCora (Spanish, Catalan): http://clic.ub.edu/corpus/en
+
 Portuguese
 ----------
 
@@ -186,6 +191,7 @@ Arabic
 - REFLEX Entity Translation (Parallel corpus: English, Arabic, Chinese): https://catalog.ldc.upenn.edu/LDC2009T11
 - ANERCorp: http://users.dsic.upv.es/~ybenajiba/downloads.html
 - ACE 2007 (Spanish and Arabic): https://catalog.ldc.upenn.edu/LDC2014T18
+- ACE 2005 (English, Chinese, Arabic): https://catalog.ldc.upenn.edu/LDC2006T06
 
 Telugu
 ------
@@ -202,6 +208,18 @@ Japanese
 
 - MET-2 (Japanese, Chinese): https://www-nlpir.nist.gov/related_projects/muc/
 - BCCWJ Basic NE corpus: https://sites.google.com/site/projectnextnlpne/en
+
+Chinese
+-------
+
+- ACE 2005 (English, Chinese, Arabic): https://catalog.ldc.upenn.edu/LDC2006T06
+- MET-2 (Japanese, Chinese): https://www-nlpir.nist.gov/related_projects/muc/
+
+Russian
+-------
+
+- BSNLP 2017 (Croatian, Czech, Polish, Russian, Slovak, Slovene, Ukrainian): http://bsnlp-2017.cs.helsinki.fi/shared_task_results.html
+
 
 A long list can be found here: http://damien.nouvels.net/resourcesen/corpora.html; more datasets listed here: https://www.clarin.eu/resource-families/newspaper-corpora
 
