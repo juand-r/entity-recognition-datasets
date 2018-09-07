@@ -195,6 +195,7 @@ Arabic
 - ACE 2004 (English, Chinese, Arabic): https://catalog.ldc.upenn.edu/LDC2005T09
 - ACE 2005 (English, Chinese, Arabic): https://catalog.ldc.upenn.edu/LDC2006T06
 - ACE 2007 (Spanish and Arabic): https://catalog.ldc.upenn.edu/LDC2014T18
+- OntoNotes 5 (English, Arabic, Chinese): https://catalog.ldc.upenn.edu/LDC2013T19
 
 Telugu
 ------
@@ -218,6 +219,7 @@ Chinese
 - ACE 2003 (English, Chinese, Arabic): https://catalog.ldc.upenn.edu/LDC2004T09
 - ACE 2004 (English, Chinese, Arabic): https://catalog.ldc.upenn.edu/LDC2005T09
 - ACE 2005 (English, Chinese, Arabic): https://catalog.ldc.upenn.edu/LDC2006T06
+- OntoNotes 5 (English, Arabic, Chinese): https://catalog.ldc.upenn.edu/LDC2013T19
 - MET-2 (Japanese, Chinese): https://www-nlpir.nist.gov/related_projects/muc/
 - REFLEX Entity Translation (Parallel corpus: English, Arabic, Chinese): https://catalog.ldc.upenn.edu/LDC2009T11
 - NE3L named entities Chinese corpus (Arabic, Chinese, Russian): http://catalogue.elra.info/en-us/repository/browse/ELRA-W0079/
