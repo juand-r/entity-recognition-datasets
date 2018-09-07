@@ -199,6 +199,7 @@ Swedish
 
 - Stockholm Internet Corpus: https://www.ling.su.se/english/nlp/corpora-and-resources/sic
 - SUC 3.0: https://spraakbanken.gu.se/eng/resource/suc3
+- Swedish manually annotated NER: https://github.com/klintan/swedish-ner-corpus/
 
 Estonian
 --------
