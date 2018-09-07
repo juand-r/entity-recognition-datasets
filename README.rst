@@ -90,6 +90,7 @@ Dutch
 Spanish
 -------
 
+- ENG-SPA tweets (Code-switching): https://code-switching.github.io/2018/ ; https://code-switching.github.io/2018/files/spa-eng/Release.zip
 - CoNLL 2002 (Spanish, Dutch): https://www.clips.uantwerpen.be/conll2002/ner/
 - AnCora (Spanish, Catalan): http://clic.ub.edu/corpus/en
 - DEFT Spanish Treebank (LDC2018T01): https://catalog.ldc.upenn.edu/LDC2018T01
@@ -220,6 +221,7 @@ Turkish
 Arabic
 ------
 
+- Arabic-Egyptian tweets (Code-switching): https://code-switching.github.io/2018/ ; https://code-switching.github.io/2018/files/msa-egy/ArabicTweetsTokenAssigner.zip
 - AQMAR Arabic Wikipedia Named Entity Corpus: http://www.cs.cmu.edu/~ark/ArabicNER/
 - NE3L named entities Arabic corpus (Arabic, Chinese, Russian): http://catalog.elra.info/en-us/repository/browse/ELRA-W0078/
 - REFLEX Entity Translation (Parallel corpus: English, Arabic, Chinese): https://catalog.ldc.upenn.edu/LDC2009T11
