@@ -189,7 +189,7 @@ Basque
 Turkish
 -------
 
-- Named Entity Recognition on Turkish Tweets: http://optima.jrc.it/Resources/ 2014_JRC_Twitter_TR_NER-dataset.zip
+- Named Entity Recognition on Turkish Tweets: http://optima.jrc.it/Resources/2014_JRC_Twitter_TR_NER-dataset.zip
 
 Arabic
 ------
