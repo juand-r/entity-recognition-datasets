@@ -180,6 +180,7 @@ Slovene
 -------
 
 - BSNLP 2017 (Croatian, Czech, Polish, Russian, Slovak, Slovene, Ukrainian): http://bsnlp-2017.cs.helsinki.fi/shared_task_results.html
+- ssj500k:  http://www.slovenscina.eu/tehnologije/ucni-korpus ; http://eng.slovenscina.eu/tehnologije/ucni-korpus ; https://www.clarin.si/repository/xmlui/handle/11356/1029
 
 Ukrainian
 ---------
