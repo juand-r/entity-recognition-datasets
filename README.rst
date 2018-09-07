@@ -234,6 +234,12 @@ Indonesian
 
 - IDENTIC: http://metashare.elda.org/repository/browse/identic/fed3fada7ef111e5aa3b001dd8b71c66c98eee36eabd42f18ffd9a95da9104cc/
 
+Vietnamese
+----------
+
+- VLSP 2016: http://vlsp.org.vn/resources-vlsp2016 ; https://github.com/undertheseanlp/ner
+- VLSP 2018: http://vlsp.org.vn/resources-vlsp2018 ; https://github.com/undertheseanlp/ner
+
 Japanese
 --------
 
