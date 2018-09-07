@@ -74,7 +74,7 @@ German
 - CoNLL 2003 (English, German): https://www.clips.uantwerpen.be/conll2003/ner/
 - GermEval 2014: https://sites.google.com/site/germeval2014ner/data
 - Tübingen Treebank of Written German (TüBa-D/Z): http://www.sfs.uni-tuebingen.de/en/ascl/resources/corpora/tueba-dz.html
-- Europeana Newspapers (Dutch, French, German): https://github.com/EuropeanaNewspapers/ner-corpora
+- Europeana Newspapers (Dutch, French, German): https://github.com/EuropeanaNewspapers/ner-corpora ; http://lab.kb.nl/dataset/europeana-newspapers-ner#access
 - German EUROPARL transcripts (subset): https://nlpado.de/~sebastian/software/ner_german.shtml
 - Named Entity Model for German, Politics (NEMGP): https://www.thomas-zastrow.de/nlp/
 - WikiNER: https://figshare.com/articles/Learning_multilingual_named_entity_recognition_from_Wikipedia/5462500
@@ -83,7 +83,7 @@ Dutch
 -----
 
 - CoNLL 2002 (Spanish, Dutch): https://www.clips.uantwerpen.be/conll2002/ner/
-- Europeana Newspapers (Dutch, French, German): https://github.com/EuropeanaNewspapers/ner-corpora
+- Europeana Newspapers (Dutch, French, German): https://github.com/EuropeanaNewspapers/ner-corpora ; http://lab.kb.nl/dataset/europeana-newspapers-ner#access
 - MEANTIME Corpus (Parallel corpus: English, Spanish, Italian, Dutch): http://www.newsreader-project.eu/results/data/wikinews/
 - WikiNER: https://figshare.com/articles/Learning_multilingual_named_entity_recognition_from_Wikipedia/5462500
 
@@ -118,7 +118,7 @@ French
 - ESTER: http://catalogue.elra.info/en-us/repository/browse/ELRA-S0241/
 - ESTER 2: http://catalogue.elra.info/en-us/repository/browse/ELRA-S0338/
 - ETAPE: http://catalogue.elra.info/en-us/repository/browse/ELRA-E0046/
-- Europeana Newspapers (Dutch, French, German): https://github.com/EuropeanaNewspapers/ner-corpora
+- Europeana Newspapers (Dutch, French, German): https://github.com/EuropeanaNewspapers/ner-corpora ; http://lab.kb.nl/dataset/europeana-newspapers-ner#access
 - QUAERO French Medical Corpus: https://quaerofrenchmed.limsi.fr/
 - Quaero Broadcast News Extended Named Entity Corpus: http://catalog.elra.info/en-us/repository/browse/ELRA-S0349/
 - Quaero Old Press Extended Named Entity corpus: http://catalog.elra.info/en-us/repository/browse/ELRA-W0073/ 
