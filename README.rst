@@ -94,6 +94,7 @@ Spanish
 - PANACEA (LAB): http://panacea-lr.eu/en/info-for-researchers/data-sets/dependency-parsed-corpora/dependency-lab-es
 - PANACEA (ENV): http://panacea-lr.eu/en/info-for-researchers/data-sets/dependency-parsed-corpora/dependency-env-es
 - MEANTIME Corpus (Parallel corpus: English, Spanish, Italian, Dutch): http://www.newsreader-project.eu/results/data/wikinews/
+- ACE 2007 (Spanish and Arabic): https://catalog.ldc.upenn.edu/LDC2014T18
 
 Portuguese
 ----------
@@ -184,6 +185,7 @@ Arabic
 - NE3L named entities Arabic corpus (also: Chinese and Russian): http://catalog.elra.info/en-us/repository/browse/ELRA-W0078/
 - REFLEX Entity Translation (Parallel corpus: English, Arabic, Chinese): https://catalog.ldc.upenn.edu/LDC2009T11
 - ANERCorp: http://users.dsic.upv.es/~ybenajiba/downloads.html
+- ACE 2007 (Spanish and Arabic): https://catalog.ldc.upenn.edu/LDC2014T18
 
 Telugu
 ------
