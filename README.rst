@@ -232,7 +232,7 @@ Arabic
 Persian
 -------
 
-ArmanPersoNERCorpus: http://islrn.org/resources/399-379-640-828-6/ ; https://github.com/HaniehP/PersianNER
+- ArmanPersoNERCorpus: http://islrn.org/resources/399-379-640-828-6/ ; https://github.com/HaniehP/PersianNER
 
 Telugu
 ------
