@@ -184,6 +184,7 @@ Ukrainian
 ---------
 
 - BSNLP 2017 (Croatian, Czech, Polish, Russian, Slovak, Slovene, Ukrainian): http://bsnlp-2017.cs.helsinki.fi/shared_task_results.html
+- Ukrainian Brown NER Corpus: https://github.com/lang-uk/ner-uk ; http://lang.org.ua/en/corpora/
 
 Serbian
 -------
