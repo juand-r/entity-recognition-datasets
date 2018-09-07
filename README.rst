@@ -77,6 +77,7 @@ German
 - Europeana Newspapers (Dutch, French, German): https://github.com/EuropeanaNewspapers/ner-corpora
 - German EUROPARL transcripts (subset): https://nlpado.de/~sebastian/software/ner_german.shtml
 - Named Entity Model for German, Politics (NEMGP): https://www.thomas-zastrow.de/nlp/
+- WikiNER: https://figshare.com/articles/Learning_multilingual_named_entity_recognition_from_Wikipedia/5462500
 
 Dutch
 -----
@@ -84,6 +85,7 @@ Dutch
 - CoNLL 2002 (Spanish, Dutch): https://www.clips.uantwerpen.be/conll2002/ner/
 - Europeana Newspapers (Dutch, French, German): https://github.com/EuropeanaNewspapers/ner-corpora
 - MEANTIME Corpus (Parallel corpus: English, Spanish, Italian, Dutch): http://www.newsreader-project.eu/results/data/wikinews/
+- WikiNER: https://figshare.com/articles/Learning_multilingual_named_entity_recognition_from_Wikipedia/5462500
 
 Spanish
 -------
@@ -95,6 +97,7 @@ Spanish
 - PANACEA (ENV): http://panacea-lr.eu/en/info-for-researchers/data-sets/dependency-parsed-corpora/dependency-env-es
 - MEANTIME Corpus (Parallel corpus: English, Spanish, Italian, Dutch): http://www.newsreader-project.eu/results/data/wikinews/
 - ACE 2007 (Spanish and Arabic): https://catalog.ldc.upenn.edu/LDC2014T18
+- WikiNER: https://figshare.com/articles/Learning_multilingual_named_entity_recognition_from_Wikipedia/5462500
 
 Catalan
 -------
@@ -106,6 +109,7 @@ Portuguese
 
 - HAREM: https://www.linguateca.pt/aval_conjunta/HAREM/harem_ing.html
 - CINTIL corpus: http://cintil.ul.pt/cintilfeatures.html#corpus
+- WikiNER: https://figshare.com/articles/Learning_multilingual_named_entity_recognition_from_Wikipedia/5462500
 
 French
 ------
@@ -117,6 +121,7 @@ French
 - QUAERO French Medical Corpus: https://quaerofrenchmed.limsi.fr/
 - Quaero Broadcast News Extended Named Entity Corpus: http://catalog.elra.info/en-us/repository/browse/ELRA-S0349/
 - Quaero Old Press Extended Named Entity corpus: http://catalog.elra.info/en-us/repository/browse/ELRA-W0073/ 
+- WikiNER: https://figshare.com/articles/Learning_multilingual_named_entity_recognition_from_Wikipedia/5462500
 
 Italian
 -------
@@ -125,6 +130,7 @@ Italian
 - MEANTIME Corpus (Parallel corpus: English, Spanish, Italian, Dutch): http://www.newsreader-project.eu/results/data/wikinews/
 - PANACEA (ENV): http://panacea-lr.eu/en/info-for-researchers/data-sets/dependency-parsed-corpora/dependency-env-it
 - PANACEA (LAB): http://panacea-lr.eu/en/info-for-researchers/data-sets/dependency-parsed-corpora/dependency-lab-it
+- WikiNER: https://figshare.com/articles/Learning_multilingual_named_entity_recognition_from_Wikipedia/5462500
 
 Romanian
 --------
@@ -156,6 +162,7 @@ Polish
 - The Polish Sejm Corpus: http://clip.ipipan.waw.pl/PSC
 - BSNLP 2017 (Croatian, Czech, Polish, Russian, Slovak, Slovene, Ukrainian): http://bsnlp-2017.cs.helsinki.fi/shared_task_results.html
 - Polish Coreference Corpus: http://zil.ipipan.waw.pl/PolishCoreferenceCorpus
+- WikiNER: https://figshare.com/articles/Learning_multilingual_named_entity_recognition_from_Wikipedia/5462500
 
 Serbian
 -------
@@ -231,6 +238,7 @@ Russian
 
 - BSNLP 2017 (Croatian, Czech, Polish, Russian, Slovak, Slovene, Ukrainian): http://bsnlp-2017.cs.helsinki.fi/shared_task_results.html
 - NE3L named entities Russian corpus (Arabic, Chinese, Russian): https://catalog.elra.info/en-us/repository/browse/ELRA-W0080/
+- WikiNER: https://figshare.com/articles/Learning_multilingual_named_entity_recognition_from_Wikipedia/5462500
 
 A long list can be found here: http://damien.nouvels.net/resourcesen/corpora.html; more datasets listed here: https://www.clarin.eu/resource-families/newspaper-corpora
 
