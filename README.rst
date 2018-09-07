@@ -186,6 +186,7 @@ Arabic
 - ANERCorp: http://users.dsic.upv.es/~ybenajiba/downloads.html
 
 Telugu
+------
 
 - NER_Telugu: https://github.com/anikethjr/NER_Telugu
 
