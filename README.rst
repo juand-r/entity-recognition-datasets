@@ -68,11 +68,6 @@ the corresponding subdirectory.
 NER in other languages
 ======================
 
-Latin
------
-
-- Herodotos Project: https://github.com/alexerdmann/Herodotos_Project_Annotation
-
 German
 ------
 
@@ -187,6 +182,8 @@ Slovene
 
 - BSNLP 2017 (Croatian, Czech, Polish, Russian, Slovak, Slovene, Ukrainian): http://bsnlp-2017.cs.helsinki.fi/shared_task_results.html
 - ssj500k:  http://www.slovenscina.eu/tehnologije/ucni-korpus ; http://eng.slovenscina.eu/tehnologije/ucni-korpus ; https://www.clarin.si/repository/xmlui/handle/11356/1029
+- Slovene news: http://zitnik.si/mediawiki/index.php?title=Datasets#Slovene_news ; http://zitnik.si/mediawiki/images/7/7d/Rtvslo_dec2011.tsv ; http://zitnik.si/mediawiki/images/5/5e/Rtvslo_dec2011_v2.tsv
+
 
 Ukrainian
 ---------
@@ -293,6 +290,12 @@ Russian
 - BSNLP 2017 (Croatian, Czech, Polish, Russian, Slovak, Slovene, Ukrainian): http://bsnlp-2017.cs.helsinki.fi/shared_task_results.html
 - NE3L named entities Russian corpus (Arabic, Chinese, Russian): https://catalog.elra.info/en-us/repository/browse/ELRA-W0080/
 - WikiNER: https://figshare.com/articles/Learning_multilingual_named_entity_recognition_from_Wikipedia/5462500
+
+Latin
+-----
+
+- Herodotos Project: https://github.com/alexerdmann/Herodotos_Project_Annotation
+
 
 A long list can be found here: http://damien.nouvels.net/resourcesen/corpora.html; more datasets listed here: https://www.clarin.eu/resource-families/newspaper-corpora
 
