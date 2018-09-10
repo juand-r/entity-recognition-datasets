@@ -312,6 +312,7 @@ Indonesian
 ----------
 
 - IDENTIC: http://metashare.elda.org/repository/browse/identic/fed3fada7ef111e5aa3b001dd8b71c66c98eee36eabd42f18ffd9a95da9104cc/
+- https://github.com/yohanesgultom/nlp-experiments/tree/master/data/ner
 
 Vietnamese
 ----------
