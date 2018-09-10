@@ -256,7 +256,22 @@ Urdu
 Hindi
 -----
 
-- TODO
+- FIRE NER 2013 (English, Hindi, Tamil, Malayalam, Bengali): http://au-kbc.org/nlp/NER-FIRE2013/
+
+Tamil
+-----
+
+- FIRE NER 2013 (English, Hindi, Tamil, Malayalam, Bengali): http://au-kbc.org/nlp/NER-FIRE2013/
+
+Malayalam
+---------
+
+- FIRE NER 2013 (English, Hindi, Tamil, Malayalam, Bengali): http://au-kbc.org/nlp/NER-FIRE2013/
+
+Bengali
+-------
+
+- FIRE NER 2013 (English, Hindi, Tamil, Malayalam, Bengali): http://au-kbc.org/nlp/NER-FIRE2013/
 
 Telugu
 ------
