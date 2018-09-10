@@ -65,6 +65,11 @@ several datasets, with different licenses. These are:
 More detailed license information for each dataset can be found in
 the corresponding subdirectory.
 
+Later ...
+
+- Mars Target Encyclopedia - LPSC abstracts labeled data set:  https://zenodo.org/record/1048419#.W5a2CBwnZhE
+
+
 NER in other languages
 ======================
 
