@@ -242,6 +242,11 @@ Swedish
 - SUC 3.0: https://spraakbanken.gu.se/eng/resource/suc3
 - Swedish manually annotated NER: https://github.com/klintan/swedish-ner-corpus/
 
+Finnish
+-------
+
+- data sets for Finnish Named Entity Recoginition: https://github.com/mpsilfve/finer-data
+
 Estonian
 --------
 
