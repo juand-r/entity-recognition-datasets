@@ -105,6 +105,7 @@ Spanish
 - MEANTIME Corpus (Parallel corpus: English, Spanish, Italian, Dutch): http://www.newsreader-project.eu/results/data/wikinews/
 - ACE 2007 (Spanish and Arabic): https://catalog.ldc.upenn.edu/LDC2014T18
 - WikiNER: https://figshare.com/articles/Learning_multilingual_named_entity_recognition_from_Wikipedia/5462500
+- http://www.grupolys.org/~marcos/pub/lrec16.tar.bz2 (used in "Incorporating Lexico-semantic Heuristics into Coreference Resolution Sieves for Named Entity Recognition at Document-level")
 
 Catalan
 -------
