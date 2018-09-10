@@ -271,6 +271,7 @@ Telugu
 
 - NER_Telugu: https://github.com/anikethjr/NER_Telugu
 - IJCNLP 2008 SSEAL: http://ltrc.iiit.ac.in/ner-ssea-08/index.cgi?topic=5
+- Named Entity Annotated Corpora for Telugu: http://www.tdil-dc.in/index.php?option=com_download&task=showresourceDetails&toolid=982&lang=en
 
 Marathi
 -------
