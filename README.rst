@@ -277,6 +277,11 @@ Marathi
 
 - Named Entity Annotated Corpora for Marathi: http://www.tdil-dc.in/index.php?option=com_download&task=showresourceDetails&toolid=979&lang=en
 
+Punjabi
+-------
+
+- Named Entity Annotated Corpora for Punjabi: http://www.tdil-dc.in/index.php?option=com_download&task=showresourceDetails&toolid=980&lang=en
+
 Tamil
 -----
 
