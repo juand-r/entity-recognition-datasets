@@ -240,6 +240,7 @@ Turkish
 -------
 
 - Named Entity Recognition on Turkish Tweets: http://optima.jrc.it/Resources/2014_JRC_Twitter_TR_NER-dataset.zip
+- English/Turkish Wikipedia Named-Entity Recognition and Text Categorization Dataset (http://arxiv.org/abs/1702.02363): https://data.mendeley.com/datasets/cdcztymf4k/1
 
 Arabic
 ------
