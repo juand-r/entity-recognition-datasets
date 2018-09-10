@@ -365,6 +365,11 @@ Russian
 - NE3L named entities Russian corpus (Arabic, Chinese, Russian): https://catalog.elra.info/en-us/repository/browse/ELRA-W0080/
 - WikiNER: https://figshare.com/articles/Learning_multilingual_named_entity_recognition_from_Wikipedia/5462500
 
+Swahili
+-------
+
+Helsinki Corpus of Swahili 2.0 (HCS 2.0) Annotated Version: http://metashare.csc.fi/repository/browse/helsinki-corpus-of-swahili-20-hcs-20-annotated-version/232c1910b9eb11e5915e005056be118e59fb2e920f1f4c0cafc94915fc6f5cac/ 
+
 Latin
 -----
 
