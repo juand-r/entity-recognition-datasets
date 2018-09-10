@@ -232,7 +232,7 @@ Bulgarian
 Danish
 ------
 
-- Danish Propbank: http://catalog.elra.info/en-us/repository/browse/ELRA-W0117/
+- Danish Propbank (DPB): http://catalog.elra.info/en-us/repository/browse/ELRA-W0117/
 - Arboretum treebank: http://catalog.elra.info/en-us/repository/browse/ELRA-W0084/
 
 Swedish
