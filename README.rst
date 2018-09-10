@@ -229,6 +229,11 @@ Bulgarian
 
 - BulTreeBank (BTB)
 
+Danish
+------
+
+Danish Propbank: http://catalog.elra.info/en-us/repository/browse/ELRA-W0117/
+
 Swedish
 -------
 
