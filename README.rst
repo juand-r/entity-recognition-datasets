@@ -287,8 +287,8 @@ Malayalam
 
 - FIRE NER 2013 (English, Hindi, Tamil, Malayalam, Bengali): http://au-kbc.org/nlp/NER-FIRE2013/
 
-Oriya
------
+Oriya/Odia
+----------
 
 - IJCNLP 2008 SSEAL: http://ltrc.iiit.ac.in/ner-ssea-08/index.cgi?topic=5
 
