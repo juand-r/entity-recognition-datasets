@@ -106,11 +106,23 @@ Spanish
 - ACE 2007 (Spanish and Arabic): https://catalog.ldc.upenn.edu/LDC2014T18
 - WikiNER: https://figshare.com/articles/Learning_multilingual_named_entity_recognition_from_Wikipedia/5462500
 - http://www.grupolys.org/~marcos/pub/lrec16.tar.bz2 (used in "Incorporating Lexico-semantic Heuristics into Coreference Resolution Sieves for Named Entity Recognition at Document-level")
+- Multilingual corpora with coreferential annotation of person entities (Spanish, Galician, Portuguese): http://gramatica.usc.es/~marcos/lrec.tar.bz2 
 
 Catalan
 -------
 
 - AnCora (Spanish, Catalan): http://clic.ub.edu/corpus/en
+
+Galician
+--------
+
+- Multilingual corpora with coreferential annotation of person entities (Spanish, Galician, Portuguese): http://gramatica.usc.es/~marcos/lrec.tar.bz2 
+
+Basque
+------
+
+- Basque Named Entities Corpus (EIEC): http://ixa.eus/node/4486?language=en
+- Basque Disambiguated Named Entities Corpus (EDIEC): http://ixa.si.ehu.es/node/4485?language=en
 
 Portuguese
 ----------
@@ -118,6 +130,7 @@ Portuguese
 - HAREM: https://www.linguateca.pt/aval_conjunta/HAREM/harem_ing.html
 - CINTIL corpus: http://cintil.ul.pt/cintilfeatures.html#corpus
 - WikiNER: https://figshare.com/articles/Learning_multilingual_named_entity_recognition_from_Wikipedia/5462500
+- Multilingual corpora with coreferential annotation of person entities (Spanish, Galician, Portuguese): http://gramatica.usc.es/~marcos/lrec.tar.bz2 
 
 French
 ------
@@ -219,12 +232,6 @@ Estonian
 --------
 
 - Estonian NER corpus: https://metashare.ut.ee/repository/browse/estonian-ner-corpus/88d030c0acde11e2a6e4005056b40024f1def472ed254e77a8952e1003d9f81e/
-
-Basque
-------
-
-- Basque Named Entities Corpus (EIEC): http://ixa.eus/node/4486?language=en
-- Basque Disambiguated Named Entities Corpus (EDIEC): http://ixa.si.ehu.es/node/4485?language=en
 
 Turkish
 -------
