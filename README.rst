@@ -2,20 +2,20 @@
 Datasets for Entity Recognition
 ===============================
 
-This repository contains English-language datasets from several domains
+This repository contains datasets from several domains
 annotated with a variety of entity types, useful for entity recognition and
-named entity recognition (NER) tasks. Links to NER corpora in other languages
-are also listed below.
+named entity recognition (NER) tasks.
 
 Datasets
 ========
 
 .. |check| unicode:: 0x2714
 
-The following table shows the list of datasets. The `data` directory also
+The following table shows the list of datasets for English-language entity recognition. The `data` directory
 contains information on where to obtain those datasets which could not be shared
 due to licensing restrictions, as well as code to convert them (if necessary)
-to the CoNLL 2003 format.
+to the CoNLL 2003 format. Links to NER corpora in other languages
+are also listed below.
 
 ============== =============== ======================= =============================== ==================================
 Dataset         Domain            License                 Reference                       Availablility
