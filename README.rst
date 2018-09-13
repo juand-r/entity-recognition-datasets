@@ -331,6 +331,12 @@ Oriya/Odia
 
 - IJCNLP 2008 SSEAL: http://ltrc.iiit.ac.in/ner-ssea-08/index.cgi?topic=5
 
+Thai
+----
+
+- thai-named-entity-recognition-data: https://github.com/PyThaiNLP/thai-named-entity-recognition-data
+- Thai named entity corpora: http://pioneer.chula.ac.th/~awirote/resources/corpora--data.html ; http://pioneer.chula.ac.th/~awirote/Data-Nutcha.zip ; http://pioneer.chula.ac.th/~awirote/Data-Sasiwimon.zip ; http://pioneer.chula.ac.th/~awirote/Data-Nattadaporn.zip
+
 Indonesian
 ----------
 
