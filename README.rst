@@ -386,6 +386,51 @@ Swahili
 
 - Helsinki Corpus of Swahili 2.0 (HCS 2.0) Annotated Version: http://metashare.csc.fi/repository/browse/helsinki-corpus-of-swahili-20-hcs-20-annotated-version/232c1910b9eb11e5915e005056be118e59fb2e920f1f4c0cafc94915fc6f5cac/ See: Shah et al., 2010. SYNERGY: A Named Entity Recognition System for Resource-scarce Languages such as Swahili using Online Machine Translation
 
+isiNdebele
+----------
+
+- NCHLT isiNdebele Named Entity Annotated Corpus: https://repo.sadilar.org/handle/20.500.12185/306
+
+isiXhosa
+--------
+
+- NCHLT isiXhosa Named Entity Annotated Corpus: https://repo.sadilar.org/handle/20.500.12185/312
+
+isiZulu
+-------
+
+- NCHLT isiZulu Named Entity Annotated Corpus: https://repo.sadilar.org/handle/20.500.12185/319
+
+Sepedi
+------
+
+- NCHLT Sepedi Named Entity Annotated Corpus: https://repo.sadilar.org/handle/20.500.12185/328
+
+Sesotho
+-------
+
+- NCHLT Sesotho Named Entity Annotated Corpus: https://repo.sadilar.org/handle/20.500.12185/334
+
+Setswana 
+--------
+
+- NCHLT Setswana Named Entity Annotated Corpus: https://repo.sadilar.org/handle/20.500.12185/341
+
+Siswati
+-------
+ 
+- NCHLT Siswati Named Entity Annotated Corpus: https://repo.sadilar.org/handle/20.500.12185/346
+
+Tshivenda
+---------
+
+- NCHLT Tshivenda Named Entity Annotated Corpus: https://repo.sadilar.org/handle/20.500.12185/355
+
+Xitsonga
+--------
+
+- NCHLT Xitsonga Named Entity Annotated Corpus: https://repo.sadilar.org/handle/20.500.12185/362
+
 Latin
 -----
 
