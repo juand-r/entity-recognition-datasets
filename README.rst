@@ -285,7 +285,7 @@ Urdu
 ----
 
 - IJCNLP 2008 SSEAL: http://ltrc.iiit.ac.in/ner-ssea-08/index.cgi?topic=5
-- TODO add
+- UNER Dataset (Khan et al., Named Entity Dataset for Urdu Named Entity Recognition Task, 2016). Available at http://www.iiu.edu.pk/?page_id=5181
 
 Hindi
 -----
