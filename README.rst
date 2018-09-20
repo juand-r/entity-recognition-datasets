@@ -259,6 +259,11 @@ Estonian
 
 - Estonian NER corpus: https://metashare.ut.ee/repository/browse/estonian-ner-corpus/88d030c0acde11e2a6e4005056b40024f1def472ed254e77a8952e1003d9f81e/
 
+Latvian and Lithuanian
+----------------------
+
+- https://github.com/accurat-toolkit/TildeNER/tree/master/TEST
+
 Turkish
 -------
 
