@@ -145,6 +145,7 @@ Portuguese
 - Multilingual corpora with coreferential annotation of person entities (Spanish, Galician, Portuguese): http://gramatica.usc.es/~marcos/lrec.tar.bz2 
 - Bosque 8.0 EAGLES format: https://gramatica.usc.es/~marcos/resources/corpora_FLpt.tgz
 - LeNER-Br (Brazilian legal documents): https://cic.unb.br/~teodecampos/LeNER-Br/
+- Paramopama: a Brazilian-Portuguese Corpus for Named Entity Recognition
 
 French
 ------
