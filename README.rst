@@ -144,6 +144,7 @@ Portuguese
 - WikiNER: https://figshare.com/articles/Learning_multilingual_named_entity_recognition_from_Wikipedia/5462500
 - Multilingual corpora with coreferential annotation of person entities (Spanish, Galician, Portuguese): http://gramatica.usc.es/~marcos/lrec.tar.bz2 
 - Bosque 8.0 EAGLES format: https://gramatica.usc.es/~marcos/resources/corpora_FLpt.tgz
+- LeNER-Br (Brazilian legal documents): https://cic.unb.br/~teodecampos/LeNER-Br/
 
 French
 ------
