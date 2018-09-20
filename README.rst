@@ -99,6 +99,11 @@ Dutch
 - MEANTIME Corpus (Parallel corpus: English, Spanish, Italian, Dutch): http://www.newsreader-project.eu/results/data/wikinews/
 - WikiNER: https://figshare.com/articles/Learning_multilingual_named_entity_recognition_from_Wikipedia/5462500
 
+Afrikaans
+---------
+
+- NCHLT Afrikaans Named Entity Annotated Corpus: https://repo.sadilar.org/handle/20.500.12185/299
+
 Spanish
 -------
 
