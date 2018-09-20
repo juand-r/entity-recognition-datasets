@@ -391,13 +391,13 @@ isiNdebele
 
 - NCHLT isiNdebele Named Entity Annotated Corpus: https://repo.sadilar.org/handle/20.500.12185/306
 
-isiXhosa
---------
+Xhosa
+-----
 
 - NCHLT isiXhosa Named Entity Annotated Corpus: https://repo.sadilar.org/handle/20.500.12185/312
 
-isiZulu
--------
+Zulu
+----
 
 - NCHLT isiZulu Named Entity Annotated Corpus: https://repo.sadilar.org/handle/20.500.12185/319
 
