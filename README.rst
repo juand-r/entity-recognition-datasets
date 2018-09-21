@@ -90,7 +90,7 @@ German
 - German EUROPARL transcripts (subset): https://nlpado.de/~sebastian/software/ner_german.shtml
 - Named Entity Model for German, Politics (NEMGP): https://www.thomas-zastrow.de/nlp/
 - WikiNER: https://figshare.com/articles/Learning_multilingual_named_entity_recognition_from_Wikipedia/5462500
-- DFKI SmartData Corpus (geo-entities): https://dfki-lt-re-group.bitbucket.io/smartdata-corpus/
+- DFKI SmartData Corpus (geo-entities): https://dfki-lt-re-group.bitbucket.io/smartdata-corpus/ (A German Corpus for Fine-Grained Named Entity Recognition and Relation Extraction of Traffic and Industry Events. Martin Schiersch, Veselina Mironova, Maximilian Schmitt, Philippe Thomas, Aleksandra Gabryszak, Leonhard Hennig. Proceedings of LREC, 2018)
 
 Dutch
 -----
