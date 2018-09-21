@@ -91,6 +91,7 @@ German
 - Named Entity Model for German, Politics (NEMGP): https://www.thomas-zastrow.de/nlp/
 - WikiNER: https://figshare.com/articles/Learning_multilingual_named_entity_recognition_from_Wikipedia/5462500
 - DFKI SmartData Corpus (geo-entities): https://dfki-lt-re-group.bitbucket.io/smartdata-corpus/ (A German Corpus for Fine-Grained Named Entity Recognition and Relation Extraction of Traffic and Industry Events. Martin Schiersch, Veselina Mironova, Maximilian Schmitt, Philippe Thomas, Aleksandra Gabryszak, Leonhard Hennig. Proceedings of LREC, 2018)
+- DBpedia abstract corpus (English, German, Dutch, French, Italian, Japanese): http://downloads.dbpedia.org/2015-04/ext/nlp/abstracts/
 
 Dutch
 -----
@@ -99,6 +100,7 @@ Dutch
 - Europeana Newspapers (Dutch, French, German): https://github.com/EuropeanaNewspapers/ner-corpora ; http://lab.kb.nl/dataset/europeana-newspapers-ner#access
 - MEANTIME Corpus (Parallel corpus: English, Spanish, Italian, Dutch): http://www.newsreader-project.eu/results/data/wikinews/
 - WikiNER: https://figshare.com/articles/Learning_multilingual_named_entity_recognition_from_Wikipedia/5462500
+- DBpedia abstract corpus (English, German, Dutch, French, Italian, Japanese): http://downloads.dbpedia.org/2015-04/ext/nlp/abstracts/
 
 Afrikaans
 ---------
@@ -119,6 +121,7 @@ Spanish
 - http://www.grupolys.org/~marcos/pub/lrec16.tar.bz2 (used in "Incorporating Lexico-semantic Heuristics into Coreference Resolution Sieves for Named Entity Recognition at Document-level")
 - Multilingual corpora with coreferential annotation of person entities (Spanish, Galician, Portuguese): http://gramatica.usc.es/~marcos/lrec.tar.bz2 
 - DrugSemantics Gold Standard: https://data.mendeley.com/datasets/fwc7jrc5jr/1
+- DBpedia abstract corpus (English, German, Dutch, French, Italian, Japanese): http://downloads.dbpedia.org/2015-04/ext/nlp/abstracts/
 
 Catalan
 -------
@@ -159,6 +162,7 @@ French
 - Quaero Broadcast News Extended Named Entity Corpus: http://catalog.elra.info/en-us/repository/browse/ELRA-S0349/
 - Quaero Old Press Extended Named Entity corpus: http://catalog.elra.info/en-us/repository/browse/ELRA-W0073/ 
 - WikiNER: https://figshare.com/articles/Learning_multilingual_named_entity_recognition_from_Wikipedia/5462500
+- DBpedia abstract corpus (English, German, Dutch, French, Italian, Japanese): http://downloads.dbpedia.org/2015-04/ext/nlp/abstracts/
 
 Italian
 -------
@@ -168,6 +172,7 @@ Italian
 - PANACEA (ENV): http://panacea-lr.eu/en/info-for-researchers/data-sets/dependency-parsed-corpora/dependency-env-it
 - PANACEA (LAB): http://panacea-lr.eu/en/info-for-researchers/data-sets/dependency-parsed-corpora/dependency-lab-it
 - WikiNER: https://figshare.com/articles/Learning_multilingual_named_entity_recognition_from_Wikipedia/5462500
+- DBpedia abstract corpus (English, German, Dutch, French, Italian, Japanese): http://downloads.dbpedia.org/2015-04/ext/nlp/abstracts/
 
 Romanian
 --------
@@ -373,6 +378,7 @@ Japanese
 - IREX: https://nlp.cs.nyu.edu/irex/Package/
 - MET-2 (Japanese, Chinese): https://www-nlpir.nist.gov/related_projects/muc/
 - BCCWJ Basic NE corpus: https://sites.google.com/site/projectnextnlpne/en
+- DBpedia abstract corpus (English, German, Dutch, French, Italian, Japanese): http://downloads.dbpedia.org/2015-04/ext/nlp/abstracts/
 
 Chinese
 -------
