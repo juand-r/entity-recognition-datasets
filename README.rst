@@ -79,7 +79,7 @@ Code-Switching
 - English-Spanish tweets: https://code-switching.github.io/2018/ ; https://code-switching.github.io/2018/files/spa-eng/Release.zip
 - Arabic-Egyptian tweets: https://code-switching.github.io/2018/ ; https://code-switching.github.io/2018/files/msa-egy/ArabicTweetsTokenAssigner.zip
 - Hindi-English social media text: https://github.com/SilentFlame/Named-Entity-Recognition ; http://aclweb.org/anthology/W18-2405
-
+- EMNLP 2014 Shared Task - Code-Switched Tweets (Nepali-English, Spanish-English, Mandarin-English, Arabic-Arabic dialects): http://emnlp2014.org/workshops/CodeSwitch/call.html 
 German
 ------
 
