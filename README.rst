@@ -270,6 +270,11 @@ Turkish
 - Named Entity Recognition on Turkish Tweets: http://optima.jrc.it/Resources/2014_JRC_Twitter_TR_NER-dataset.zip
 - English/Turkish Wikipedia Named-Entity Recognition and Text Categorization Dataset (http://arxiv.org/abs/1702.02363): https://data.mendeley.com/datasets/cdcztymf4k/1
 
+Uyghur
+------
+
+- Uyghur Named Entity Relation corpus: https://github.com/kaharjan/UyNeRel (Abiderexiti et al., Annotation Schemes for Constructing Uyghur Named Entity Relation Corpus. IALP 2016)
+
 Amharic
 -------
 
