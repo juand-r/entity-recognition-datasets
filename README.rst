@@ -206,6 +206,8 @@ Polish
 - BSNLP 2017 (Croatian, Czech, Polish, Russian, Slovak, Slovene, Ukrainian): http://bsnlp-2017.cs.helsinki.fi/shared_task_results.html
 - Polish Coreference Corpus: http://zil.ipipan.waw.pl/PolishCoreferenceCorpus
 - WikiNER: https://figshare.com/articles/Learning_multilingual_named_entity_recognition_from_Wikipedia/5462500
+- Corpus of Economic News (CEN Corpus): http://www.nlp.pwr.wroc.pl/narzedzia-i-zasoby/zasoby/cen
+- KPWr (Korpus Języka Polskiego Politechniki Wrocławskiej): http://plwordnet.pwr.wroc.pl/index.php?option=com_content&view=article&id=35&Itemid=181&lang=pl ; http://plwordnet.pwr.wroc.pl/attachments/article/35/kpwr-1.1.7z (Broda et al., KPWr: Towards a Free Corpus of Polish, 2012)
 
 Croatian
 --------
