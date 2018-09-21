@@ -434,8 +434,8 @@ Siswati
  
 - NCHLT Siswati Named Entity Annotated Corpus: https://repo.sadilar.org/handle/20.500.12185/346
 
-Tshivenda
----------
+Venda
+-----
 
 - NCHLT Tshivenda Named Entity Annotated Corpus: https://repo.sadilar.org/handle/20.500.12185/355
 
