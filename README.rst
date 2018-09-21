@@ -271,6 +271,7 @@ Latvian and Lithuanian
 ----------------------
 
 - https://github.com/accurat-toolkit/TildeNER/tree/master/TEST
+- Training data for the LV Tagger: https://github.com/PeterisP/LVTagger/tree/master/NerTrainingData
 
 Turkish
 -------
