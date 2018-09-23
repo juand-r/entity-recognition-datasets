@@ -12,7 +12,12 @@ number LDC2005T33), in directory original_BBN_dataset.
 
 2. Create directory 'data' within the CONLL-format directory.
 
-3. Some minor cleaning must be done (some XML errors). See below for details.
+3. Some minor cleaning must be done (some XML errors). These can be fixed
+   by running:
+
+   . clean.sh
+
+   See below for details of what this script does.
 
 4. Then, in directory utils, in Python 2:
 
@@ -21,6 +26,8 @@ bbn2conll.write_all_to_conll()
 
 Cleaning
 --------
+
+This describes the cleaning that is done by script clean.sh.
 
 Label mismatches:
 
