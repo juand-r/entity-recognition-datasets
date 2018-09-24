@@ -20,7 +20,7 @@ are also listed below.
 ============== =============== ======================= =============================== ==================================
 Dataset         Domain            License                 Reference                       Availablility
 ============== =============== ======================= =============================== ==================================
-CONLL 2003      News               DUA (Reuters)        Sang and Meulder, 2003          _`Easy <https://github.com/patverga/torch-ner-nlp-from-scratch/tree/master/data/conll2003>`_ to find
+CONLL 2003      News               DUA (Reuters)        Sang and Meulder, 2003          `Easy <https://github.com/patverga/torch-ner-nlp-from-scratch/tree/master/data/conll2003/>`_ to find
 NIST-IEER       News               None                 NIST 1999 IE-ER                 `NLTK data <https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/ieer.zip>`_
 MUC-6           News               LDC                  Grishman and Sundheim, 1996     `LDC 2003T13 <https://catalog.ldc.upenn.edu/LDC2003T13>`_
 OntoNotes 5     Various            LDC                  Weischedel et al., 2013         `LDC 2013T19 <https://catalog.ldc.upenn.edu/LDC2013T19>`_
