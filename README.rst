@@ -140,6 +140,7 @@ Basque
 
 - Basque Named Entities Corpus (EIEC): http://ixa.eus/node/4486?language=en
 - Basque Disambiguated Named Entities Corpus (EDIEC): http://ixa.si.ehu.es/node/4485?language=en
+- Egunkaria 2000 corpus (383 newswire texts), mentioned in http://qtleap.eu/wp-content/uploads/2014/04/QTLEAP-2013-D5.1.pdf
 
 Portuguese
 ----------
