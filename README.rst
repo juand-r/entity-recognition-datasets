@@ -73,6 +73,11 @@ Later ...
 NER in other languages
 ======================
 
+Lexical Named Entity resources
+------------------------------
+
+- HeiNER: http://heiner.cl.uni-heidelberg.de/index.shtml
+
 Code-Switching
 --------------
 
