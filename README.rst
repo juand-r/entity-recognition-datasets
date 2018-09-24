@@ -59,7 +59,7 @@ several datasets, with different licenses. These are:
   - Delegation_of_the_European_Union_to_Syria: see
     https://eeas.europa.eu/delegations/syria/8157/legal-notice_en
 
-(2) GUM comprises three datasets, with licenses CC-BY 3.0, CC-BY-SA 3.0 and
+(2) GUM 3.1.0 comprises three datasets, with licenses CC-BY 3.0, CC-BY-SA 3.0 and
     CC-BY-NC-SA 3.0. The annotations are licensed under CC-BY 4.0.
 
 More detailed license information for each dataset can be found in
