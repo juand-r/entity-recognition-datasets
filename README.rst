@@ -97,6 +97,7 @@ German
 - WikiNER: https://figshare.com/articles/Learning_multilingual_named_entity_recognition_from_Wikipedia/5462500
 - DFKI SmartData Corpus (geo-entities): https://dfki-lt-re-group.bitbucket.io/smartdata-corpus/ (A German Corpus for Fine-Grained Named Entity Recognition and Relation Extraction of Traffic and Industry Events. Martin Schiersch, Veselina Mironova, Maximilian Schmitt, Philippe Thomas, Aleksandra Gabryszak, Leonhard Hennig. Proceedings of LREC, 2018)
 - DBpedia abstract corpus (English, German, Dutch, French, Italian, Japanese): http://downloads.dbpedia.org/2015-04/ext/nlp/abstracts/
+- DAWT dataset - Densely Annotated Wikipedia Texts across multiple languages (English, Spanish, French, Italian, German, Arabic): https://github.com/klout/opendata/tree/master/wiki_annotation
 
 Dutch
 -----
@@ -130,6 +131,7 @@ Spanish
 - Multilingual corpora with coreferential annotation of person entities (Spanish, Galician, Portuguese): http://gramatica.usc.es/~marcos/lrec.tar.bz2 
 - DrugSemantics Gold Standard: https://data.mendeley.com/datasets/fwc7jrc5jr/1
 - DBpedia abstract corpus (English, German, Dutch, French, Italian, Japanese): http://downloads.dbpedia.org/2015-04/ext/nlp/abstracts/
+- DAWT dataset - Densely Annotated Wikipedia Texts across multiple languages (English, Spanish, French, Italian, German, Arabic): https://github.com/klout/opendata/tree/master/wiki_annotation
 
 Catalan
 -------
@@ -172,6 +174,7 @@ French
 - Quaero Old Press Extended Named Entity corpus: http://catalog.elra.info/en-us/repository/browse/ELRA-W0073/ 
 - WikiNER: https://figshare.com/articles/Learning_multilingual_named_entity_recognition_from_Wikipedia/5462500
 - DBpedia abstract corpus (English, German, Dutch, French, Italian, Japanese): http://downloads.dbpedia.org/2015-04/ext/nlp/abstracts/
+- DAWT dataset - Densely Annotated Wikipedia Texts across multiple languages (English, Spanish, French, Italian, German, Arabic): https://github.com/klout/opendata/tree/master/wiki_annotation
 
 Italian
 -------
@@ -182,6 +185,7 @@ Italian
 - PANACEA (LAB): http://panacea-lr.eu/en/info-for-researchers/data-sets/dependency-parsed-corpora/dependency-lab-it
 - WikiNER: https://figshare.com/articles/Learning_multilingual_named_entity_recognition_from_Wikipedia/5462500
 - DBpedia abstract corpus (English, German, Dutch, French, Italian, Japanese): http://downloads.dbpedia.org/2015-04/ext/nlp/abstracts/
+- DAWT dataset - Densely Annotated Wikipedia Texts across multiple languages (English, Spanish, French, Italian, German, Arabic): https://github.com/klout/opendata/tree/master/wiki_annotation
 
 Romanian
 --------
@@ -310,6 +314,7 @@ Arabic
 - ACE 2005 (English, Chinese, Arabic): https://catalog.ldc.upenn.edu/LDC2006T06
 - ACE 2007 (Spanish and Arabic): https://catalog.ldc.upenn.edu/LDC2014T18
 - OntoNotes 5 (English, Arabic, Chinese): https://catalog.ldc.upenn.edu/LDC2013T19
+- DAWT dataset - Densely Annotated Wikipedia Texts across multiple languages (English, Spanish, French, Italian, German, Arabic): https://github.com/klout/opendata/tree/master/wiki_annotation
 
 Persian
 -------
