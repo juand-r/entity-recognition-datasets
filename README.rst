@@ -270,7 +270,7 @@ Estonian
 Latvian and Lithuanian
 ----------------------
 
-- https://github.com/accurat-toolkit/TildeNER/tree/master/TEST
+- https://github.com/accurat-toolkit/TildeNER/tree/master/TEST (Pinnis,  	Latvian and Lithuanian Named Entity Recognition with TildeNER, LREC 2012)
 - Training data for the LV Tagger: https://github.com/PeterisP/LVTagger/tree/master/NerTrainingData
 
 Turkish
