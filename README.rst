@@ -77,6 +77,7 @@ Lexical Named Entity resources
 ------------------------------
 
 - HeiNER: http://heiner.cl.uni-heidelberg.de/index.shtml
+- NECKAr: https://event.ifi.uni-heidelberg.de/?page_id=532#Wikidata_NE_dataset
 
 Code-Switching
 --------------
