@@ -26,7 +26,7 @@ MUC-6           News               LDC                  Grishman and Sundheim, 1
 OntoNotes 5     Various            LDC                  Weischedel et al., 2013         `LDC 2013T19 <https://catalog.ldc.upenn.edu/LDC2013T19>`_
 BBN             Various            LDC                  Weischedel & Brunstein, 2005    `LDC 2005T33 <https://catalog.ldc.upenn.edu/LDC2005T33>`_
 GMB-1.0.0       Various            None                 Bos et al., 2017                `http://gmb.let.rug.nl/data.php <http://gmb.let.rug.nl/releases/gmb-1.0.0.zip>`_
-GUM             Wiki               Several (*2)         Zeldes, 2016                    |check| Included here
+GUM-3.1.0       Wiki               Several (*2)         Zeldes, 2016                    |check| Included here
 wikigold        Wikipedia          CC-BY 4.0            Balasuriya et al., 2009         |check| Included here
 Ritter          Twitter            None                 Ritter et al., 2011             `No split <https://github.com/aritter/twitter_nlp/blob/master/data/annotated/ner.txt>`_ , `Train/test/dev split <http://kimi.ml.cmu.edu/transfer/data.tar.gz>`_
 WNUT17          Twitter            CC-BY 4.0            Derczynski et al., 2017         |check| Included here
