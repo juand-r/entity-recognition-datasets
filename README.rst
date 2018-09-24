@@ -175,6 +175,7 @@ French
 - WikiNER: https://figshare.com/articles/Learning_multilingual_named_entity_recognition_from_Wikipedia/5462500
 - DBpedia abstract corpus (English, German, Dutch, French, Italian, Japanese): http://downloads.dbpedia.org/2015-04/ext/nlp/abstracts/
 - DAWT dataset - Densely Annotated Wikipedia Texts across multiple languages (English, Spanish, French, Italian, German, Arabic): https://github.com/klout/opendata/tree/master/wiki_annotation
+- CAp 2017 - (Twitter data), Lopez et al., CAp 2017 challenge: Twitter Named Entity Recognition, 2017): http://cap2017.imag.fr/competition.html
 
 Italian
 -------
