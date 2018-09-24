@@ -398,6 +398,7 @@ Chinese
 - NE3L named entities Chinese corpus (Arabic, Chinese, Russian): http://catalogue.elra.info/en-us/repository/browse/ELRA-W0079/
 - Original Short-Message Data Collation I in Chinese (named entities): http://catalog.elra.info/en-us/repository/browse/ELRA-W0045_04/ 
 - Original Short-Message Data Collation II in Chinese (named entities): http://catalog.elra.info/en-us/repository/browse/ELRA-W0045_08/
+- ERE DEFT Corpora (Parallel corpus: English, Chinese): Mott et al., Parallel Chinese-English Entities, Relations and Events Corpora, 2016 (LDC2015E78 , LDC2014E114)
 
 Russian
 -------
