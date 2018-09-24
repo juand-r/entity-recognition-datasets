@@ -28,7 +28,7 @@ BBN             Various            LDC                  Weischedel & Brunstein, 
 GMB-1.0.0       Various            None                 Bos et al., 2017                `http://gmb.let.rug.nl/data.php <http://gmb.let.rug.nl/releases/gmb-1.0.0.zip>`_
 GUM             Wiki               Several (*2)         Zeldes, 2016                    |check| Included here
 wikigold        Wikipedia          CC-BY 4.0            Balasuriya et al., 2009         |check| Included here
-Ritter          Twitter            None                 Ritter et al., 2011             `http://kimi.ml.cmu.edu/transfer/data.tar.gz <http://kimi.ml.cmu.edu/transfer/data.tar.gz>`_
+Ritter          Twitter            None                 Ritter et al., 2011             _`No split <https://github.com/aritter/twitter_nlp/blob/master/data/annotated/ner.txt>`_ `Train/test split <http://kimi.ml.cmu.edu/transfer/data.tar.gz>`_
 WNUT17          Twitter            CC-BY 4.0            Derczynski et al., 2017         |check| Included here
 BTC             Twitter            CC-BY 4.0            Derczynski et al., 2016         |check| Included here
 i2b2-2006       Medical            DUA                  Uzuner et al., 2007             `http://www.i2b2.org <https://www.i2b2.org/NLP/DataSets/Main.php>`_
