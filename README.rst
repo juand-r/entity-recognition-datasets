@@ -101,6 +101,7 @@ Dutch
 - MEANTIME Corpus (Parallel corpus: English, Spanish, Italian, Dutch): http://www.newsreader-project.eu/results/data/wikinews/
 - WikiNER: https://figshare.com/articles/Learning_multilingual_named_entity_recognition_from_Wikipedia/5462500
 - DBpedia abstract corpus (English, German, Dutch, French, Italian, Japanese): http://downloads.dbpedia.org/2015-04/ext/nlp/abstracts/
+- Dutch parliamentary documents 2015-2016, from 1848.nl (Jonkers, Named Entity Recognition on Dutch Parliamentary Documents using Frog, thesis, University of Amsterdam, 2016): https://github.com/Poezedoez/NER/blob/master/Code/data/lobby/golden_standard
 - SONAR 1 - Desmet and Hoste, Fine-grained Dutch named entity recognition, 2014 (hierarchy of classes)
 - Corpus-SONAR books and Corpus Gutenberg Dutch: http://blog.namescape.nl/?page_id=85 ; http://portal.clarin.nl/node/1940
 
