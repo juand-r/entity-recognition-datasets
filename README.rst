@@ -272,6 +272,7 @@ Swedish
 - Stockholm Internet Corpus: https://www.ling.su.se/english/nlp/corpora-and-resources/sic
 - SUC 3.0: https://spraakbanken.gu.se/eng/resource/suc3
 - Swedish manually annotated NER: https://github.com/klintan/swedish-ner-corpus/
+- Medical wikipedia data (Almgren et al., Named Entity Recognition in Swedish Health Records with Character-Based Deep Bidirectional LSTMs, 2016): https://github.com/olofmogren/biomedical-ner-data-swedish  
 
 Finnish
 -------
