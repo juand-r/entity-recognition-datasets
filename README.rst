@@ -131,7 +131,7 @@ Spanish
 - WikiNER: https://figshare.com/articles/Learning_multilingual_named_entity_recognition_from_Wikipedia/5462500
 - http://www.grupolys.org/~marcos/pub/lrec16.tar.bz2 (used in "Incorporating Lexico-semantic Heuristics into Coreference Resolution Sieves for Named Entity Recognition at Document-level")
 - Multilingual corpora with coreferential annotation of person entities (Spanish, Galician, Portuguese): http://gramatica.usc.es/~marcos/lrec.tar.bz2 
-- DrugSemantics Gold Standard: https://data.mendeley.com/datasets/fwc7jrc5jr/1
+- DrugSemantics Gold Standard (Moreno et al., DrugSemantics: A corpus for Named Entity Recognition in Spanish Summaries of Product Characteristics, 2017): https://data.mendeley.com/datasets/fwc7jrc5jr/1
 - DBpedia abstract corpus (English, German, Dutch, French, Italian, Japanese): http://downloads.dbpedia.org/2015-04/ext/nlp/abstracts/
 - DAWT dataset - Densely Annotated Wikipedia Texts across multiple languages (English, Spanish, French, Italian, German, Arabic): https://github.com/klout/opendata/tree/master/wiki_annotation
 
