@@ -24,7 +24,7 @@ CONLL 2003      News               DUA                  Sang and Meulder, 2003  
 NIST-IEER       News               None                 NIST 1999 IE-ER                 `NLTK data <https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/ieer.zip>`_
 MUC-6           News               LDC                  Grishman and Sundheim, 1996     `LDC 2003T13 <https://catalog.ldc.upenn.edu/LDC2003T13>`_
 OntoNotes 5     Various            LDC                  Weischedel et al., 2013         `LDC 2013T19 <https://catalog.ldc.upenn.edu/LDC2013T19>`_
-BBN             Various            LDC                  Weischedel & Brunstein, 2005    `LDC 2005T33 <https://catalog.ldc.upenn.edu/LDC2005T33>`_
+BBN             Various            LDC                  Weischedel and Brunstein, 2005    `LDC 2005T33 <https://catalog.ldc.upenn.edu/LDC2005T33>`_
 GMB-1.0.0       Various            None                 Bos et al., 2017                `http://gmb.let.rug.nl/data.php <http://gmb.let.rug.nl/releases/gmb-1.0.0.zip>`_
 GUM-3.1.0       Wiki               Several (*2)         Zeldes, 2016                    |check| Included here
 wikigold        Wikipedia          CC-BY 4.0            Balasuriya et al., 2009         |check| Included here
@@ -400,7 +400,7 @@ Japanese
 - MET-2 (Japanese, Chinese): https://www-nlpir.nist.gov/related_projects/muc/
 - BCCWJ Basic NE corpus: https://sites.google.com/site/projectnextnlpne/en
 - DBpedia abstract corpus (English, German, Dutch, French, Italian, Japanese): http://downloads.dbpedia.org/2015-04/ext/nlp/abstracts/
-- Data from Mai et al., An Empirical Study on Fine-Grained Named Entity Recognition, COLING 2018 (English, Japanese): https://fgner.alt.ai/duc/ene/testsets/comp/
+- Data from: Mai et al., An Empirical Study on Fine-Grained Named Entity Recognition, COLING 2018 (English, Japanese): https://fgner.alt.ai/duc/ene/testsets/comp/
 
 Chinese
 -------
