@@ -422,6 +422,7 @@ Russian
 - BSNLP 2017 (Croatian, Czech, Polish, Russian, Slovak, Slovene, Ukrainian): http://bsnlp-2017.cs.helsinki.fi/shared_task_results.html
 - NE3L named entities Russian corpus (Arabic, Chinese, Russian): https://catalog.elra.info/en-us/repository/browse/ELRA-W0080/
 - WikiNER: https://figshare.com/articles/Learning_multilingual_named_entity_recognition_from_Wikipedia/5462500
+- factRuEval-2016: https://github.com/dialogue-evaluation/factRuEval-2016
 
 Swahili
 -------
