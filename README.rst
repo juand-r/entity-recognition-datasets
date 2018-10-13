@@ -29,8 +29,8 @@ GMB-1.0.0       Various            None                 Bos et al., 2017        
 GUM-3.1.0       Wiki               Several (*2)         Zeldes, 2016                    |check| Included here
 wikigold        Wikipedia          CC-BY 4.0            Balasuriya et al., 2009         |check| Included here
 Ritter          Twitter            None                 Ritter et al., 2011             `No split <https://github.com/aritter/twitter_nlp/blob/master/data/annotated/ner.txt>`_ , `Train/test/dev split <http://kimi.ml.cmu.edu/transfer/data.tar.gz>`_
-WNUT17          Twitter            CC-BY 4.0            Derczynski et al., 2017         |check| Included here
 BTC             Twitter            CC-BY 4.0            Derczynski et al., 2016         |check| Included here
+WNUT17          Social media       CC-BY 4.0            Derczynski et al., 2017         |check| Included here
 i2b2-2006       Medical            DUA                  Uzuner et al., 2007             `http://www.i2b2.org <https://www.i2b2.org/NLP/DataSets/Main.php>`_
 i2b2-2014       Medical            DUA                  Stubbs et al., 2015             `http://www.i2b2.org <https://www.i2b2.org/NLP/DataSets/Main.php>`_
 CADEC           Medical            CSIRO                Karimi et al., 2015             http://data.csiro.au/
