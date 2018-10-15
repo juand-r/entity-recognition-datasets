@@ -505,7 +505,7 @@ In Handbook of linguistic annotation, pp. 463-496. Springer, Dordrecht, 2017.
 Broad twitter corpus: A diverse named entity recognition resource. In
 Proceedings of COLING 2016, the 26th International Conference on Computational
 Linguistics: Technical Papers, pp. 1169-1179. 2016.
-Available from: https://github.com/GateNLP/broad_twitter_corpus
+Available at: https://github.com/GateNLP/broad_twitter_corpus
 Accessed: August 2018.
 
 [Derczynski et al., 2017] Leon Derczynski, Eric Nichols, Marieke van Erp,
