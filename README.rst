@@ -37,7 +37,7 @@ CADEC           Medical            CSIRO                Karimi et al., 2015     
 AnEM            Anatomical         CC-BY-SA 3.0         Ohta et al., 2012               |check| Included here
 MITRestaurant   Queries            None                 Liu et al., 2013a               `http://groups.csail.mit.edu/sls/ <https://groups.csail.mit.edu/sls/downloads/restaurant/>`_
 MITMovie        Queries            None                 Liu et al., 2013b               `http://groups.csail.mit.edu/sls/ <https://groups.csail.mit.edu/sls/downloads/movie/>`_
-MalwareTextDB   Malware            None                 Lim et al., 2017                `http://www.statnlp.org/<http://www.statnlp.org/research/re/MalwareTextDB-1.0.zip>`_
+MalwareTextDB   Malware            None                 Lim et al., 2017                `http://www.statnlp.org/ <http://www.statnlp.org/research/re/MalwareTextDB-1.0.zip>`_
 re3d            Defense            Several (*1)         DSTL, 2017                      |check| Included here
 SEC-filings     Finance            CC-BY 3.0            Alvarado et al., 2015           |check| Included here
 Assembly        Robotics           X                    Costa et al., 2017              X
