@@ -301,6 +301,11 @@ Uyghur
 
 - Uyghur Named Entity Relation corpus: https://github.com/kaharjan/UyNeRel (Abiderexiti et al., Annotation Schemes for Constructing Uyghur Named Entity Relation Corpus. IALP 2016)
 
+Armenian
+--------
+
+- pioNER (gold-standard and silver-standard datasets): https://github.com/ispras-texterra/pioner
+
 Amharic
 -------
 
