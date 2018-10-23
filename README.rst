@@ -304,7 +304,7 @@ Uyghur
 Armenian
 --------
 
-- pioNER (gold-standard and silver-standard datasets): https://github.com/ispras-texterra/pioner
+- pioNER (gold-standard and silver-standard datasets): https://github.com/ispras-texterra/pioner (Ghukasyan et al., pioNER: Datasets and Baselines for Armenian Named Entity Recognition, 2018)
 
 Amharic
 -------
