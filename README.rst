@@ -403,7 +403,7 @@ Japanese
 
 - IREX: https://nlp.cs.nyu.edu/irex/Package/
 - MET-2 (Japanese, Chinese): https://www-nlpir.nist.gov/related_projects/muc/
-- BCCWJ Basic NE corpus: https://sites.google.com/site/projectnextnlpne/en
+- BCCWJ Basic NE corpus: https://sites.google.com/site/projectnextnlpne/en (Iwakura et al., Constructing a Japanese Basic Named Entity Corpus of Various Genres, NEWS 2016)
 - DBpedia abstract corpus (English, German, Dutch, French, Italian, Japanese): http://downloads.dbpedia.org/2015-04/ext/nlp/abstracts/
 - Data from: Mai et al., An Empirical Study on Fine-Grained Named Entity Recognition, COLING 2018 (English, Japanese): https://fgner.alt.ai/duc/ene/testsets/comp/
 
