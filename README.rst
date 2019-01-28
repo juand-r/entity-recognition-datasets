@@ -293,7 +293,8 @@ Latvian and Lithuanian
 Turkish
 -------
 
-- Named Entity Recognition on Turkish Tweets: http://optima.jrc.it/Resources/2014_JRC_Twitter_TR_NER-dataset.zip
+- K̈ucuk and Can, A Tweet Dataset Annotated for Named Entity Recognition and Stance Detection, 2019: https://github.com/dkucuk/Tweet-Dataset-NER-SD
+- K̈ucuk et al., Named Entity Recognition on Turkish Tweets: http://optima.jrc.it/Resources/2014_JRC_Twitter_TR_NER-dataset.zip
 - English/Turkish Wikipedia Named-Entity Recognition and Text Categorization Dataset (http://arxiv.org/abs/1702.02363): https://data.mendeley.com/datasets/cdcztymf4k/1
 
 Uyghur
