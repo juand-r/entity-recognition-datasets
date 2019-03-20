@@ -68,7 +68,8 @@ the corresponding subdirectory.
 Later ...
 
 - Mars Target Encyclopedia - LPSC abstracts labeled data set:  https://zenodo.org/record/1048419#.W5a2CBwnZhE
-
+- Best Buy queries: https://www.kaggle.com/dataturks/best-buy-ecommerce-ner-dataset/home
+- Resume entities for NER: https://www.kaggle.com/dataturks/resume-entities-for-ner/home
 
 NER in other languages
 ======================
