@@ -67,6 +67,7 @@ the corresponding subdirectory.
 
 Later ...
 
+- LitBank: https://github.com/dbamman/litbank (Bamman, Popat and Shen, An Annotated Dataset of Literary Entities, NAACL 2019)
 - NNE: A Dataset for Nested Named Entity Recognition in English Newswire, 2019 https://github.com/nickyringland/nested_named_entities
 - Mars Target Encyclopedia - LPSC abstracts labeled data set:  https://zenodo.org/record/1048419#.W5a2CBwnZhE
 - Best Buy queries: https://www.kaggle.com/dataturks/best-buy-ecommerce-ner-dataset/home
