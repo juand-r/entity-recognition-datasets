@@ -229,6 +229,7 @@ Polish
 Croatian
 --------
 
+- hr500k 1.0:  http://hdl.handle.net/11356/1183
 - BSNLP 2017 (Croatian, Czech, Polish, Russian, Slovak, Slovene, Ukrainian): http://bsnlp-2017.cs.helsinki.fi/shared_task_results.html
 
 Slovak
@@ -241,9 +242,9 @@ Slovene
 -------
 
 - BSNLP 2017 (Croatian, Czech, Polish, Russian, Slovak, Slovene, Ukrainian): http://bsnlp-2017.cs.helsinki.fi/shared_task_results.html
-- ssj500k:  http://www.slovenscina.eu/tehnologije/ucni-korpus ; http://eng.slovenscina.eu/tehnologije/ucni-korpus ; https://www.clarin.si/repository/xmlui/handle/11356/1029
+- ssj500k:  http://www.slovenscina.eu/tehnologije/ucni-korpus ; http://eng.slovenscina.eu/tehnologije/ucni-korpus ; https://www.clarin.si/repository/xmlui/handle/11356/1029 ;  NOTE: for v 2.2 see: http://hdl.handle.net/11356/1210
 - Slovene news: http://zitnik.si/mediawiki/index.php?title=Datasets#Slovene_news ; http://zitnik.si/mediawiki/images/7/7d/Rtvslo_dec2011.tsv ; http://zitnik.si/mediawiki/images/5/5e/Rtvslo_dec2011_v2.tsv
-
+- Janes-Tag 2.0 (social media text) https://www.clarin.si/repository/xmlui/handle/11356/1123 ; see also: Fišer et al., The Janes project: language resources and tools for Slovene user generated content, 2018.
 
 Ukrainian
 ---------
@@ -254,6 +255,7 @@ Ukrainian
 Serbian
 -------
 
+- SETimes.SR - http://hdl.handle.net/11356/1200
 - Named Entities evaluation corpus for Serbian: http://www.korpus.matf.bg.ac.rs/SrpNEval/
 
 Bulgarian
