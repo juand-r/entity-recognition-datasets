@@ -231,6 +231,7 @@ Croatian
 
 - hr500k 1.0:  http://hdl.handle.net/11356/1183
 - BSNLP 2017 (Croatian, Czech, Polish, Russian, Slovak, Slovene, Ukrainian): http://bsnlp-2017.cs.helsinki.fi/shared_task_results.html
+- ReLDI-NormTagNER-hr (Croatian tweets): http://hdl.handle.net/11356/1170
 
 Slovak
 ------
@@ -257,6 +258,7 @@ Serbian
 
 - SETimes.SR - http://hdl.handle.net/11356/1200
 - Named Entities evaluation corpus for Serbian: http://www.korpus.matf.bg.ac.rs/SrpNEval/
+- ReLDI-NormTagNER-sr (Serbian tweets): http://hdl.handle.net/11356/1171
 
 Bulgarian
 ---------
