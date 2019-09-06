@@ -6,12 +6,12 @@ This repository contains datasets from several domains
 annotated with a variety of entity types, useful for entity recognition and
 named entity recognition (NER) tasks.
 
-Datasets
-========
+Datasets for NER in English
+===========================
 
 .. |check| unicode:: 0x2714
 
-The following table shows the list of datasets for English-language entity recognition. The `data` directory
+The following table shows the list of datasets for English-language entity recognition (for a list of NER datasets in other languages, see below). The `data` directory
 contains information on where to obtain those datasets which could not be shared
 due to licensing restrictions, as well as code to convert them (if necessary)
 to the CoNLL 2003 format. Links to NER corpora in other languages
@@ -73,8 +73,8 @@ Later ...
 - Best Buy queries: https://www.kaggle.com/dataturks/best-buy-ecommerce-ner-dataset/home
 - Resume entities for NER: https://www.kaggle.com/dataturks/resume-entities-for-ner/home
 
-NER in other languages
-======================
+Datasets for NER in other languages
+===================================
 
 Lexical Named Entity resources
 ------------------------------
