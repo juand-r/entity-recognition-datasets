@@ -393,6 +393,11 @@ Oriya/Odia
 
 - IJCNLP 2008 SSEAL: http://ltrc.iiit.ac.in/ner-ssea-08/index.cgi?topic=5
 
+Sinhala/Sinhalese
+-----------------
+
+- LORELEI (LDC2018E57)
+
 Thai
 ----
 
