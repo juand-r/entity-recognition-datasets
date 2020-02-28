@@ -278,7 +278,7 @@ Norwegian
 ---------
 
 - Bjarte Johansen, Named-Entity Recognition for Norwegian, Proceedings of the 22nd Nordic Conference on Computational Linguistics. 2019 (https://www.aclweb.org/anthology/W19-6123.pdf) Data: https://github.com/ljos/navnkjenner
-- Fredrik Jørgensen et al., NorNE: Annotating Named Entities for Norwegian, 2019 (https://arxiv.org/pdf/1911.12146.pdf). Data: https://github.com/ltgoslo/norne/
+- Fredrik Jørgensen et al., NorNE: Annotating Named Entities for Norwegian, 2019 (https://arxiv.org/pdf/1911.12146.pdf). Data: https://github.com/ltgoslo/norne/ ; https://www.nb.no/sprakbanken/show?serial=oai%3Anb.no%3Asbr-49
 
 Swedish
 -------
