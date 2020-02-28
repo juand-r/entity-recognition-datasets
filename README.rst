@@ -103,6 +103,7 @@ German
 - DFKI SmartData Corpus (geo-entities): https://dfki-lt-re-group.bitbucket.io/smartdata-corpus/ (A German Corpus for Fine-Grained Named Entity Recognition and Relation Extraction of Traffic and Industry Events. Martin Schiersch, Veselina Mironova, Maximilian Schmitt, Philippe Thomas, Aleksandra Gabryszak, Leonhard Hennig. Proceedings of LREC, 2018)
 - DBpedia abstract corpus (English, German, Dutch, French, Italian, Japanese): http://downloads.dbpedia.org/2015-04/ext/nlp/abstracts/
 - DAWT dataset - Densely Annotated Wikipedia Texts across multiple languages (English, Spanish, French, Italian, German, Arabic): https://github.com/klout/opendata/tree/master/wiki_annotation
+- Elena Leitner, Georg Rehm, Juli ́an Moreno-Schneider, A Dataset of German Legal Documents for Named Entity Recognition, LREC 2020: http://georg-re.hm/pdf/LREC-2020-Leitner-et-al-preprint.pdf ; Data: https://github.com/elenanereiss/Legal-Entity-Recognition
 
 Dutch
 -----
@@ -272,6 +273,12 @@ Danish
 
 - Danish Propbank (DPB): http://catalog.elra.info/en-us/repository/browse/ELRA-W0117/
 - Arboretum treebank: http://catalog.elra.info/en-us/repository/browse/ELRA-W0084/
+
+Norwegian
+---------
+
+- Bjarte Johansen, Named-Entity Recognition for Norwegian, Proceedings of the 22nd Nordic Conference on Computational Linguistics. 2019 (https://www.aclweb.org/anthology/W19-6123.pdf) Data: https://github.com/ljos/navnkjenner
+- Fredrik Jørgensen et al., NorNE: Annotating Named Entities for Norwegian, 2019 (https://arxiv.org/pdf/1911.12146.pdf). Data: https://github.com/ltgoslo/norne/
 
 Swedish
 -------
