@@ -197,6 +197,7 @@ Italian
 Romanian
 --------
 
+- Romanian Named Entity Corpus (RONEC): https://github.com/dumitrescustefan/ronec/raw/master/ronec/conllup/zips/ronec_iob.zip
 - Romanian journalistic corpus (ROCO): http://metashare.elda.org/repository/browse/romanian-journalistic-corpus-roco/038baa80dc7311e5aa0b00237df3e3583781d7c0f2084057aa018a2d63d987e9/
 - Romanian Balanced Corpus (ROMBAC): http://metashare.elda.org/repository/browse/romanian-balanced-corpus-rombac/0a7dd85edc7311e5aa0b00237df3e35873a0d662435d42dd94fba48c29dc0065/
 
@@ -621,3 +622,7 @@ release 5.0 ldc2013t19. Linguistic Data Consortium, Philadelphia, PA (2013).
 resources in the classroom. Language Resources and Evaluation, 51(3):581-612.
 Available at https://github.com/amir-zeldes/gum/tree/master/coref/tsv/
 Accessed: November 2017.
+
+[Dumitrescu and Avram, 2019] Dumitrescu Stefan Daniel and Andrei-Marius Avram. 
+Introducing RONEC--the Romanian Named Entity Corpus. arXiv preprint arXiv:
+1909.01247 (2019).
