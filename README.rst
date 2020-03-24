@@ -197,7 +197,7 @@ Italian
 Romanian
 --------
 
-- RONEC (Introducing RONEC - the Romanian Named Entity Corpus, LREC 2020). Paper: https://arxiv.org/pdf/1909.01247.pdf Data: https://github.com/dumitrescustefan/ronec
+- RONEC (Dumitrescu and Avram, Introducing RONEC - the Romanian Named Entity Corpus. LREC 2020). Paper: https://arxiv.org/pdf/1909.01247.pdf Data: https://github.com/dumitrescustefan/ronec
 - Romanian journalistic corpus (ROCO): http://metashare.elda.org/repository/browse/romanian-journalistic-corpus-roco/038baa80dc7311e5aa0b00237df3e3583781d7c0f2084057aa018a2d63d987e9/
 - Romanian Balanced Corpus (ROMBAC): http://metashare.elda.org/repository/browse/romanian-balanced-corpus-rombac/0a7dd85edc7311e5aa0b00237df3e35873a0d662435d42dd94fba48c29dc0065/
 
