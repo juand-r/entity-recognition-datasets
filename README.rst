@@ -454,6 +454,7 @@ Russian
 - NE3L named entities Russian corpus (Arabic, Chinese, Russian): https://catalog.elra.info/en-us/repository/browse/ELRA-W0080/
 - WikiNER: https://figshare.com/articles/Learning_multilingual_named_entity_recognition_from_Wikipedia/5462500
 - factRuEval-2016: https://github.com/dialogue-evaluation/factRuEval-2016
+- RuREBus 2020 (Russian Relation Extraction for Business) corpus https://github.com/dialogue-evaluation/RuREBus
 
 Swahili
 -------
