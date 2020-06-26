@@ -138,6 +138,7 @@ Spanish
 - DrugSemantics Gold Standard (Moreno et al., DrugSemantics: A corpus for Named Entity Recognition in Spanish Summaries of Product Characteristics, 2017): https://data.mendeley.com/datasets/fwc7jrc5jr/1
 - DBpedia abstract corpus (English, German, Dutch, French, Italian, Japanese): http://downloads.dbpedia.org/2015-04/ext/nlp/abstracts/
 - DAWT dataset - Densely Annotated Wikipedia Texts across multiple languages (English, Spanish, French, Italian, German, Arabic): https://github.com/klout/opendata/tree/master/wiki_annotation
+- CANTEMIST (CANcer TExt Mining Shared Task – tumor named entity recognition) - named entity recognition of a critical type of concept related to cancer, namely tumor morphology in Spanish medical texts: https://temu.bsc.es/cantemist/
 
 Catalan
 -------
