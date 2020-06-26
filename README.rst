@@ -66,7 +66,7 @@ More detailed license information for each dataset can be found in
 the corresponding subdirectory.
 
 Later ...
-
+- Tabassum et al., Code and Named Entity Recognition in StackOverflow https://cocoxu.github.io/publications/ACL2020_stackoverflow_NER.pdf
 - LitBank: https://github.com/dbamman/litbank (Bamman, Popat and Shen, An Annotated Dataset of Literary Entities, NAACL 2019)
 - NNE: A Dataset for Nested Named Entity Recognition in English Newswire, 2019 https://github.com/nickyringland/nested_named_entities
 - Mars Target Encyclopedia - LPSC abstracts labeled data set:  https://zenodo.org/record/1048419#.W5a2CBwnZhE
