@@ -270,6 +270,11 @@ Bulgarian
 
 - BulTreeBank (BTB)
 
+Icelandic
+---------
+
+- MIM-GOLD-NER (Ingólfsdóttir, Svanhvít Lilja, Sigurjón Þorsteinsson, and Hrafn Loftsson. "Towards High Accuracy Named Entity Recognition for Icelandic." Proceedings of the 22nd Nordic Conference on Computational Linguistics. 2019): http://www.malfong.is/index.php?pg=mim_gold_ner
+
 Danish
 ------
 
