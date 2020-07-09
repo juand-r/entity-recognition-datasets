@@ -439,6 +439,11 @@ Japanese
 - DBpedia abstract corpus (English, German, Dutch, French, Italian, Japanese): http://downloads.dbpedia.org/2015-04/ext/nlp/abstracts/
 - Data from: Mai et al., An Empirical Study on Fine-Grained Named Entity Recognition, COLING 2018 (English, Japanese): https://fgner.alt.ai/duc/ene/testsets/comp/
 
+Korean
+------
+
+-  National Institute of Korean Language (ROK) - NER Corpus: https://github.com/digitalprk/KoreaNER ; https://ithub.korean.go.kr/user/total/referenceView.do?boardSeq=5&articleSeq=118&boardGb=T&isInsUpd&boardType=CORPUS
+
 Chinese
 -------
 
