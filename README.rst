@@ -328,6 +328,11 @@ Armenian
 
 - pioNER (gold-standard and silver-standard datasets): https://github.com/ispras-texterra/pioner (Ghukasyan et al., pioNER: Datasets and Baselines for Armenian Named Entity Recognition, 2018)
 
+Coptic
+------
+
+- The Coptic Universal Dependency Treebank: https://github.com/UniversalDependencies/UD_Coptic-Scriptorium/tree/dev (see also https://copticscriptorium.org/treebank.html). This contains 46,000 tokens of nested (non-)named and Wikified entities from Sahidic Coptic texts.
+
 Amharic
 -------
 
@@ -346,6 +351,7 @@ Arabic
 - ACE 2007 (Spanish and Arabic): https://catalog.ldc.upenn.edu/LDC2014T18
 - OntoNotes 5 (English, Arabic, Chinese): https://catalog.ldc.upenn.edu/LDC2013T19
 - DAWT dataset - Densely Annotated Wikipedia Texts across multiple languages (English, Spanish, French, Italian, German, Arabic): https://github.com/klout/opendata/tree/master/wiki_annotation
+
 
 Persian
 -------
