@@ -278,6 +278,7 @@ Icelandic
 Danish
 ------
 
+- DaNE: Hvingelby et al., [DaNE: A Named Entity Resource for Danish.](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.565.pdf), LREC 2020: https://github.com/alexandrainst/danlp/
 - Danish Propbank (DPB): http://catalog.elra.info/en-us/repository/browse/ELRA-W0117/
 - Arboretum treebank: http://catalog.elra.info/en-us/repository/browse/ELRA-W0084/
 
