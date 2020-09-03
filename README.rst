@@ -475,6 +475,11 @@ Russian
 - factRuEval-2016: https://github.com/dialogue-evaluation/factRuEval-2016
 - RuREBus 2020 (Russian Relation Extraction for Business) corpus https://github.com/dialogue-evaluation/RuREBus
 
+Yoruba
+------
+
+- GV-Yorùbá-NER. Data: https://github.com/ajesujoba/YorubaTwi-Embedding/tree/master/Yoruba/Yor%C3%B9b%C3%A1-NER ; Data statement: https://drive.google.com/file/d/177xu-O2FTJ7VJQ-0ohCWjVd1qu61Tvml/view Paper: Jesujoba O Alabi, Kwabena Amponsah-Kaakyire, David I Adelani, and Cristina Espãna-Bonet. Massive vs. curated word embeddings for low-resourced languages. the case of Yorùbá and Twi. In LREC, 2020 (https://arxiv.org/abs/1912.02481)
+
 Swahili
 -------
 
