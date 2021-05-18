@@ -6,6 +6,9 @@ This repository contains datasets from several domains
 annotated with a variety of entity types, useful for entity recognition and
 named entity recognition (NER) tasks.
 
+
+**NOTE: I am no longer actively adding datasets to this list -- there are likely more NER datasets that have appeared since 2020. However, I am happy to add more datasets via issues or pull requests.**
+
 Datasets for NER in English
 ===========================
 
