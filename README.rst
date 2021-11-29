@@ -44,7 +44,7 @@ MalwareTextDB   Malware            None                 Lim et al., 2017        
 re3d            Defense            Several (*1)         DSTL, 2017                      |check| Included here
 SEC-filings     Finance            CC-BY 3.0            Alvarado et al., 2015           |check| Included here
 Assembly        Robotics           X                    Costa et al., 2017              X
-WikiNEuRal      Wikipedia          CC BY-SA-NC 4.0      Tedeschi et al, 2021            https://github.com/Babelscape/wikineural
+WikiNEuRal      Wikipedia          CC BY-SA-NC 4.0      Tedeschi et al., 2021           https://github.com/Babelscape/wikineural
 ============== =============== ======================= =============================== ==================================
 
 Licenses
