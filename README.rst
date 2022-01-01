@@ -216,6 +216,7 @@ Hungarian
 
 - Hungarian Named Entity Corpora: http://rgai.inf.u-szeged.hu/index.php?lang=en&page=corpus_ne
 - hunNERwiki: http://hlt.sztaki.hu/resources/hunnerwiki.html
+- NYTK: https://github.com/nytud/NYTK-NerKor
 
 Czech
 -----
@@ -303,6 +304,7 @@ Finnish
 -------
 
 - data sets for Finnish Named Entity Recoginition: https://github.com/mpsilfve/finer-data
+- Turku NER corpus: https://github.com/TurkuNLP/turku-ner-corpus
 
 Estonian
 --------
