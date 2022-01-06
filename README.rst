@@ -456,6 +456,8 @@ Japanese
 - BCCWJ Basic NE corpus: https://sites.google.com/site/projectnextnlpne/en (Iwakura et al., Constructing a Japanese Basic Named Entity Corpus of Various Genres, NEWS 2016)
 - DBpedia abstract corpus (English, German, Dutch, French, Italian, Japanese): http://downloads.dbpedia.org/2015-04/ext/nlp/abstracts/
 - Data from: Mai et al., An Empirical Study on Fine-Grained Named Entity Recognition, COLING 2018 (English, Japanese): https://fgner.alt.ai/duc/ene/testsets/comp/
+- Wikipedia NER Corpus: https://github.com/stockmarkteam/ner-wikipedia-dataset
+- WikiANN: https://elisa-ie.github.io/wikiann/  
 
 Korean
 ------
