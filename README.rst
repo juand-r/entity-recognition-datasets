@@ -449,6 +449,7 @@ Vietnamese
 
 - VLSP 2016: http://vlsp.org.vn/resources-vlsp2016 ; https://github.com/undertheseanlp/ner
 - VLSP 2018: http://vlsp.org.vn/resources-vlsp2018 ; https://github.com/undertheseanlp/ner
+- PhoNER_COVID19: https://github.com/VinAIResearch/PhoNER_COVID19
 
 Japanese
 --------
