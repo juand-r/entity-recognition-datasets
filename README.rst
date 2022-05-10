@@ -382,6 +382,7 @@ Urdu
 
 Hindi
 -----
+- HiNER: https://github.com/cfiltnlp/HiNER
 - Hindi Health Dataset: https://www.kaggle.com/aijain/hindi-health-dataset/home
 - FIRE 2015, ESM-IL (English, Hindi, Tamil, Malayalam) : http://au-kbc.org/nlp/ESM-FIRE2015/#traincorpus
 - FIRE NER 2013 (English, Hindi, Tamil, Malayalam, Bengali): http://au-kbc.org/nlp/NER-FIRE2013/
