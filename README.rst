@@ -196,6 +196,7 @@ French
 Italian
 -------
 
+- KIND: https://github.com/dhfbk/KIND
 - Evalita: http://www.evalita.it/2009/tasks/entity
 - MEANTIME Corpus (Parallel corpus: English, Spanish, Italian, Dutch): http://www.newsreader-project.eu/results/data/wikinews/
 - PANACEA (ENV): http://panacea-lr.eu/en/info-for-researchers/data-sets/dependency-parsed-corpora/dependency-env-it
