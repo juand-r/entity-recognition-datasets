@@ -467,7 +467,11 @@ Japanese
 Korean
 ------
 
--  National Institute of Korean Language (ROK) - NER Corpus: https://github.com/digitalprk/KoreaNER ; https://ithub.korean.go.kr/user/total/referenceView.do?boardSeq=5&articleSeq=118&boardGb=T&isInsUpd&boardType=CORPUS
+- National Institute of Korean Language (ROK) - NER Corpus: https://github.com/digitalprk/KoreaNER ; https://ithub.korean.go.kr/user/total/referenceView.do?boardSeq=5&articleSeq=118&boardGb=T&isInsUpd&boardType=CORPUS
+- KMOU NER - https://github.com/kmounlp/NER
+- Korean Language Understanding Evaluation - KLUE NER - https://klue-benchmark.com/tasks/69/overview/description
+- https://github.com/songys/entity
+- HLCT 2016 corpus, with updates - https://github.com/machinereading/KoreanNERCorpus
 
 Chinese
 -------
