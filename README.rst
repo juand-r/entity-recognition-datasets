@@ -463,6 +463,7 @@ Japanese
 - Data from: Mai et al., An Empirical Study on Fine-Grained Named Entity Recognition, COLING 2018 (English, Japanese): https://fgner.alt.ai/duc/ene/testsets/comp/
 - Wikipedia NER Corpus: https://github.com/stockmarkteam/ner-wikipedia-dataset
 - WikiANN: https://elisa-ie.github.io/wikiann/  
+- GSD: Conversion of the UD GSD dataset to named entities by Megagon Labs  https://github.com/megagonlabs/UD_Japanese-GSD
 
 Korean
 ------
