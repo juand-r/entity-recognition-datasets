@@ -406,6 +406,7 @@ Marathi
 -------
 
 - Named Entity Annotated Corpora for Marathi: http://www.tdil-dc.in/index.php?option=com_download&task=showresourceDetails&toolid=979&lang=en
+- L3Cube MahaNER: https://arxiv.org/abs/2204.06029  https://github.com/l3cube-pune/MarathiNLP
 
 Punjabi
 -------
