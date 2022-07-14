@@ -442,6 +442,8 @@ Thai
 
 - thai-named-entity-recognition-data: https://github.com/PyThaiNLP/thai-named-entity-recognition-data
 - Thai named entity corpora: http://pioneer.chula.ac.th/~awirote/resources/corpora--data.html ; http://pioneer.chula.ac.th/~awirote/Data-Nutcha.zip ; http://pioneer.chula.ac.th/~awirote/Data-Sasiwimon.zip ; http://pioneer.chula.ac.th/~awirote/Data-Nattadaporn.zip
+- LST20: https://huggingface.co/datasets/lst20 ; https://arxiv.org/abs/2008.05055
+- Thai-NNER: https://github.com/vistec-AI/Thai-NNER , https://aclanthology.org/2022.findings-acl.116
 
 Indonesian
 ----------
