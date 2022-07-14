@@ -395,6 +395,7 @@ Bengali
 - FIRE NER 2013 (English, Hindi, Tamil, Malayalam, Bengali): http://au-kbc.org/nlp/NER-FIRE2013/
 - IJCNLP 2008 SSEAL: http://ltrc.iiit.ac.in/ner-ssea-08/index.cgi?topic=5
 - Bengali-NER: https://github.com/Rifat1493/Bengali-NER, https://ieeexplore.ieee.org/document/8944804
+- NER-Bangla: https://github.com/MISabic/NER-Bangla-Dataset, https://content.iospress.com/articles/journal-of-intelligent-and-fuzzy-systems/ifs179349
 
 Telugu
 ------
