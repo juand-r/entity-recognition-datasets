@@ -409,6 +409,16 @@ Telugu
 - IJCNLP 2008 SSEAL: http://ltrc.iiit.ac.in/ner-ssea-08/index.cgi?topic=5
 - Named Entity Annotated Corpora for Telugu: http://www.tdil-dc.in/index.php?option=com_download&task=showresourceDetails&toolid=982&lang=en
 
+Maithili
+--------
+
+- The first named entity recognizer in Maithili: Resource creation and system development: https://content.iospress.com/articles/journal-of-intelligent-and-fuzzy-systems/ifs210051
+
+Nepali
+------
+
+- EverestNER: https://journals.flvc.org/FLAIRS/article/view/130725, https://github.com/nowalab/everest-ner
+
 Marathi
 -------
 
