@@ -484,6 +484,7 @@ Japanese
 - Wikipedia NER Corpus: https://github.com/stockmarkteam/ner-wikipedia-dataset
 - WikiANN: https://elisa-ie.github.io/wikiann/  
 - GSD: Conversion of the UD GSD dataset to named entities by Megagon Labs  https://github.com/megagonlabs/UD_Japanese-GSD
+- KWDLC: Kyoto University Web Document Leads Corpus   https://nlp.ist.i.kyoto-u.ac.jp/EN/index.php?KWDLC  https://github.com/ku-nlp/KWDLC  https://nagisa.readthedocs.io/en/latest/tutorial_ner.html
 
 Korean
 ------
