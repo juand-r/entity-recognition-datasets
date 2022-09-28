@@ -382,6 +382,11 @@ Persian
 
 - ArmanPersoNERCorpus: http://islrn.org/resources/399-379-640-828-6/ ; https://github.com/HaniehP/PersianNER
 
+Sindhi
+------
+
+- SiNER: https://aclanthology.org/2020.lrec-1.361/, https://github.com/AliWazir/SiNER-dataset
+
 Urdu
 ----
 
