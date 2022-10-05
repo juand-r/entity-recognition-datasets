@@ -45,6 +45,7 @@ re3d            Defense            Several (*1)         DSTL, 2017              
 SEC-filings     Finance            CC-BY 3.0            Alvarado et al., 2015           |check| Included here
 Assembly        Robotics           X                    Costa et al., 2017              X
 WikiNEuRal      Wikipedia          CC BY-SA-NC 4.0      Tedeschi et al., 2021           https://github.com/Babelscape/wikineural
+MultiNERD       Wikipedia          CC BY-SA-NC 4.0      Tedeschi et al., 2022           https://github.com/Babelscape/multinerd
 ============== =============== ======================= =============================== ==================================
 
 Licenses
@@ -108,6 +109,7 @@ German
 - Named Entity Model for German, Politics (NEMGP): https://www.thomas-zastrow.de/nlp/
 - WikiNER: https://figshare.com/articles/Learning_multilingual_named_entity_recognition_from_Wikipedia/5462500
 - WikiNEuRal: https://github.com/Babelscape/wikineural
+- MultiNERD: https://github.com/Babelscape/multinerd
 - DFKI SmartData Corpus (geo-entities): https://dfki-lt-re-group.bitbucket.io/smartdata-corpus/ (A German Corpus for Fine-Grained Named Entity Recognition and Relation Extraction of Traffic and Industry Events. Martin Schiersch, Veselina Mironova, Maximilian Schmitt, Philippe Thomas, Aleksandra Gabryszak, Leonhard Hennig. Proceedings of LREC, 2018)
 - DBpedia abstract corpus (English, German, Dutch, French, Italian, Japanese): http://downloads.dbpedia.org/2015-04/ext/nlp/abstracts/
 - DAWT dataset - Densely Annotated Wikipedia Texts across multiple languages (English, Spanish, French, Italian, German, Arabic): https://github.com/klout/opendata/tree/master/wiki_annotation
@@ -121,6 +123,7 @@ Dutch
 - MEANTIME Corpus (Parallel corpus: English, Spanish, Italian, Dutch): http://www.newsreader-project.eu/results/data/wikinews/
 - WikiNER: https://figshare.com/articles/Learning_multilingual_named_entity_recognition_from_Wikipedia/5462500
 - WikiNEuRal: https://github.com/Babelscape/wikineural
+- MultiNERD: https://github.com/Babelscape/multinerd
 - DBpedia abstract corpus (English, German, Dutch, French, Italian, Japanese): http://downloads.dbpedia.org/2015-04/ext/nlp/abstracts/
 - Dutch parliamentary documents 2015-2016, from 1848.nl (Jonkers, Named Entity Recognition on Dutch Parliamentary Documents using Frog, thesis, University of Amsterdam, 2016): https://github.com/Poezedoez/NER/blob/master/Code/data/lobby/golden_standard
 - SONAR 1 - Desmet and Hoste, Fine-grained Dutch named entity recognition, 2014 (hierarchy of classes)
@@ -143,6 +146,7 @@ Spanish
 - ACE 2007 (Spanish and Arabic): https://catalog.ldc.upenn.edu/LDC2014T18
 - WikiNER: https://figshare.com/articles/Learning_multilingual_named_entity_recognition_from_Wikipedia/5462500
 - WikiNEuRal: https://github.com/Babelscape/wikineural
+- MultiNERD: https://github.com/Babelscape/multinerd
 - http://www.grupolys.org/~marcos/pub/lrec16.tar.bz2 (used in "Incorporating Lexico-semantic Heuristics into Coreference Resolution Sieves for Named Entity Recognition at Document-level")
 - Multilingual corpora with coreferential annotation of person entities (Spanish, Galician, Portuguese): http://gramatica.usc.es/~marcos/lrec.tar.bz2 
 - DrugSemantics Gold Standard (Moreno et al., DrugSemantics: A corpus for Named Entity Recognition in Spanish Summaries of Product Characteristics, 2017): https://data.mendeley.com/datasets/fwc7jrc5jr/1
@@ -175,6 +179,7 @@ Portuguese
 - CINTIL corpus: http://cintil.ul.pt/cintilfeatures.html#corpus
 - WikiNER: https://figshare.com/articles/Learning_multilingual_named_entity_recognition_from_Wikipedia/5462500
 - WikiNEuRal: https://github.com/Babelscape/wikineural
+- MultiNERD: https://github.com/Babelscape/multinerd
 - Multilingual corpora with coreferential annotation of person entities (Spanish, Galician, Portuguese): http://gramatica.usc.es/~marcos/lrec.tar.bz2 
 - Bosque 8.0 EAGLES format: https://gramatica.usc.es/~marcos/resources/corpora_FLpt.tgz
 - LeNER-Br (Brazilian legal documents): https://cic.unb.br/~teodecampos/LeNER-Br/
@@ -192,6 +197,7 @@ French
 - Quaero Old Press Extended Named Entity corpus: http://catalog.elra.info/en-us/repository/browse/ELRA-W0073/ 
 - WikiNER: https://figshare.com/articles/Learning_multilingual_named_entity_recognition_from_Wikipedia/5462500
 - WikiNEuRal: https://github.com/Babelscape/wikineural
+- MultiNERD: https://github.com/Babelscape/multinerd
 - DBpedia abstract corpus (English, German, Dutch, French, Italian, Japanese): http://downloads.dbpedia.org/2015-04/ext/nlp/abstracts/
 - DAWT dataset - Densely Annotated Wikipedia Texts across multiple languages (English, Spanish, French, Italian, German, Arabic): https://github.com/klout/opendata/tree/master/wiki_annotation
 - CAp 2017 - (Twitter data), Lopez et al., CAp 2017 challenge: Twitter Named Entity Recognition, 2017: http://cap2017.imag.fr/competition.html
@@ -206,6 +212,7 @@ Italian
 - PANACEA (LAB): http://panacea-lr.eu/en/info-for-researchers/data-sets/dependency-parsed-corpora/dependency-lab-it
 - WikiNER: https://figshare.com/articles/Learning_multilingual_named_entity_recognition_from_Wikipedia/5462500
 - WikiNEuRal: https://github.com/Babelscape/wikineural
+- MultiNERD: https://github.com/Babelscape/multinerd
 - DBpedia abstract corpus (English, German, Dutch, French, Italian, Japanese): http://downloads.dbpedia.org/2015-04/ext/nlp/abstracts/
 - DAWT dataset - Densely Annotated Wikipedia Texts across multiple languages (English, Spanish, French, Italian, German, Arabic): https://github.com/klout/opendata/tree/master/wiki_annotation
 
@@ -244,6 +251,7 @@ Polish
 - Polish Coreference Corpus: http://zil.ipipan.waw.pl/PolishCoreferenceCorpus
 - WikiNER: https://figshare.com/articles/Learning_multilingual_named_entity_recognition_from_Wikipedia/5462500
 - WikiNEuRal: https://github.com/Babelscape/wikineural
+- MultiNERD: https://github.com/Babelscape/multinerd
 - Corpus of Economic News (CEN Corpus): http://www.nlp.pwr.wroc.pl/narzedzia-i-zasoby/zasoby/cen
 - KPWr (Korpus Języka Polskiego Politechniki Wrocławskiej/Polish Corpus of Wrocław University of Technology): http://plwordnet.pwr.wroc.pl/index.php?option=com_content&view=article&id=35&Itemid=181&lang=pl ; http://plwordnet.pwr.wroc.pl/attachments/article/35/kpwr-1.1.7z (Broda et al., KPWr: Towards a Free Corpus of Polish, 2012)
 - NKJP: http://clip.ipipan.waw.pl/NationalCorpusOfPolish?action=AttachFile&do=view&target=NKJP-PodkorpusMilionowy-1.2.tar.gz
@@ -527,6 +535,7 @@ Russian
 - NE3L named entities Russian corpus (Arabic, Chinese, Russian): https://catalog.elra.info/en-us/repository/browse/ELRA-W0080/
 - WikiNER: https://figshare.com/articles/Learning_multilingual_named_entity_recognition_from_Wikipedia/5462500
 - WikiNEuRal: https://github.com/Babelscape/wikineural
+- MultiNERD: https://github.com/Babelscape/multinerd
 - factRuEval-2016: https://github.com/dialogue-evaluation/factRuEval-2016
 - RuREBus 2020 (Russian Relation Extraction for Business) corpus https://github.com/dialogue-evaluation/RuREBus
 
