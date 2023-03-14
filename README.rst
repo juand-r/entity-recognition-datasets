@@ -115,6 +115,7 @@ German
 - DBpedia abstract corpus (English, German, Dutch, French, Italian, Japanese): http://downloads.dbpedia.org/2015-04/ext/nlp/abstracts/
 - DAWT dataset - Densely Annotated Wikipedia Texts across multiple languages (English, Spanish, French, Italian, German, Arabic): https://github.com/klout/opendata/tree/master/wiki_annotation
 - Elena Leitner, Georg Rehm, Juli ́an Moreno-Schneider, A Dataset of German Legal Documents for Named Entity Recognition, LREC 2020: http://georg-re.hm/pdf/LREC-2020-Leitner-et-al-preprint.pdf ; Data: https://github.com/elenanereiss/Legal-Entity-Recognition
+- HIPE-2022, named entity recognition and entity linking in multilingual historical documents: https://hipe-eval.github.io/HIPE-2022/ https://github.com/hipe-eval/HIPE-2022-data
 
 Dutch
 -----
@@ -202,6 +203,8 @@ French
 - DBpedia abstract corpus (English, German, Dutch, French, Italian, Japanese): http://downloads.dbpedia.org/2015-04/ext/nlp/abstracts/
 - DAWT dataset - Densely Annotated Wikipedia Texts across multiple languages (English, Spanish, French, Italian, German, Arabic): https://github.com/klout/opendata/tree/master/wiki_annotation
 - CAp 2017 - (Twitter data), Lopez et al., CAp 2017 challenge: Twitter Named Entity Recognition, 2017: http://cap2017.imag.fr/competition.html
+- HIPE-2022, named entity recognition and entity linking in multilingual historical documents: https://hipe-eval.github.io/HIPE-2022/ https://github.com/hipe-eval/HIPE-2022-data
+
 
 Italian
 -------
@@ -321,12 +324,15 @@ Swedish
 - SUC 3.0: https://spraakbanken.gu.se/eng/resource/suc3
 - Swedish manually annotated NER: https://github.com/klintan/swedish-ner-corpus/
 - Medical wikipedia data (Almgren et al., Named Entity Recognition in Swedish Health Records with Character-Based Deep Bidirectional LSTMs, 2016): https://github.com/olofmogren/biomedical-ner-data-swedish  
+- HIPE-2022, named entity recognition and entity linking in multilingual historical documents: https://hipe-eval.github.io/HIPE-2022/ https://github.com/hipe-eval/HIPE-2022-data
+
 
 Finnish
 -------
 
 - data sets for Finnish Named Entity Recoginition: https://github.com/mpsilfve/finer-data
 - Turku NER corpus: https://github.com/TurkuNLP/turku-ner-corpus
+- HIPE-2022, named entity recognition and entity linking in multilingual historical documents: https://hipe-eval.github.io/HIPE-2022/ https://github.com/hipe-eval/HIPE-2022-data
 
 Estonian
 --------
