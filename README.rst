@@ -47,6 +47,7 @@ Assembly        Robotics           X                    Costa et al., 2017      
 WikiNEuRal      Wikipedia          CC BY-SA-NC 4.0      Tedeschi et al., 2021           https://github.com/Babelscape/wikineural
 MultiNERD       Wikipedia          CC BY-SA-NC 4.0      Tedeschi et al., 2022           https://github.com/Babelscape/multinerd
 HIPE-2022       Historical         CC BY-SA-NC 4.0      Ehrmann et al., 2022            https://github.com/hipe-eval/HIPE-2022-data
+Music-NER       Music              MIT                  Epure and Hennequin, 2023       https://github.com/deezer/music-ner-eacl2023
 ============== =============== ======================= =============================== ==================================
 
 Licenses
