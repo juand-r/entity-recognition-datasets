@@ -393,7 +393,7 @@ Arabic
 - ACE 2007 (Spanish and Arabic): https://catalog.ldc.upenn.edu/LDC2014T18
 - OntoNotes 5 (English, Arabic, Chinese): https://catalog.ldc.upenn.edu/LDC2013T19
 - DAWT dataset - Densely Annotated Wikipedia Texts across multiple languages (English, Spanish, French, Italian, German, Arabic): https://github.com/klout/opendata/tree/master/wiki_annotation
-- Wojood - 2022 Nested Arabic Named Entity Corpus.  https://dlnlp.ai/st/wojood/  https://aclanthology.org/2022.lrec-1.387.pdf  
+- Wojood - 2022 Nested Arabic Named Entity Corpus.  https://dlnlp.ai/st/wojood/  https://aclanthology.org/2022.lrec-1.387.pdf  https://codalab.lisn.upsaclay.fr/competitions/11740
 
 Persian
 -------
