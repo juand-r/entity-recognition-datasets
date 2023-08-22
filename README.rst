@@ -535,7 +535,7 @@ Chinese
 - Original Short-Message Data Collation II in Chinese (named entities): http://catalog.elra.info/en-us/repository/browse/ELRA-W0045_08/
 - ERE DEFT Corpora (Parallel corpus: English, Chinese): Mott et al., Parallel Chinese-English Entities, Relations and Events Corpora, 2016 (LDC2015E78 , LDC2014E114)
 - Chinese Weibo: DEFT ERE style annotations for named and nominal mentions on Chinese social media (Weibo): https://github.com/hltcoe/golden-horse
-
+- Chinese EduNER: 2023 dataset in the Education domain:  https://link.springer.com/article/10.1007/s00521-023-08635-5  https://github.com/anonymous-xl/eduner
 
 Russian
 -------
