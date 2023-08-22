@@ -411,6 +411,10 @@ Urdu
 - UNER Dataset (Khan et al., Named Entity Dataset for Urdu Named Entity Recognition Task, 2016). Available at http://www.iiu.edu.pk/?page_id=5181
 - MK-PUCIT: https://www.dropbox.com/sh/1ivw7ykm2tugg94/AAB9t5wnN7FynESpo7TjJW8la ; see: Kanwal et al., Urdu Named Entity Recognition: Corpus Generationand Deep Learning Applications, 2019 
 
+Indic
+-----
+
+- Naamapadam: Named Entity Recognition (NER) dataset for 11 major Indian languages from two language families.  https://research.ibm.com/publications/naamapadam-a-large-scale-named-entity-annotated-data-for-indic-languages   https://ai4bharat.iitm.ac.in/naamapadam
 
 Hindi
 -----
