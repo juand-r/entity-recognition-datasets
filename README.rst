@@ -491,6 +491,9 @@ Indonesian
 
 - IDENTIC: http://metashare.elda.org/repository/browse/identic/fed3fada7ef111e5aa3b001dd8b71c66c98eee36eabd42f18ffd9a95da9104cc/
 - https://github.com/yohanesgultom/nlp-experiments/tree/master/data/ner
+- indonesia-ner: Syaifudin & Nurwidyantoro  https://ieeexplore.ieee.org/document/7828656  https://github.com/yusufsyaifudin/Indonesia-ner
+- idner-news-2k: A dataset of Indonesian News for Named-Entity Recognition task.  Reannotation of Syaifudin & Nurwidyantoro https://dl.acm.org/doi/10.1145/3592854#fn8 
+ https://github.com/khairunnisaor/idner-news-2k/
 
 Vietnamese
 ----------
