@@ -602,6 +602,7 @@ Venda
 -----
 
 - NCHLT Tshivenda Named Entity Annotated Corpus: https://repo.sadilar.org/handle/20.500.12185/355
+- MPHAYANER: Named Entity Recognition for Tshivenḓa: https://openreview.net/pdf?id=0nneuL3bSLt https://github.com/rendanim/MphayaNER
 
 Xitsonga
 --------
