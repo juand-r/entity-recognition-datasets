@@ -561,7 +561,7 @@ Swahili
 Igbo
 ----
 
-- IgboNER: https://aclanthology.org/2022.lrec-1.547/  https://github.com/Chiamakac/IgboNER-Models
+- IgboNER: https://aclanthology.org/2022.lrec-1.547/  https://github.com/Chiamakac/IgboNER-Models later updated in https://openreview.net/pdf?id=tHUS9-vmUfC
 
 isiNdebele
 ----------
