@@ -564,7 +564,7 @@ Swahili
 Igbo
 ----
 
-- IgboNER: https://aclanthology.org/2022.lrec-1.547/  https://github.com/Chiamakac/IgboNER-Models later updated in https://openreview.net/pdf?id=tHUS9-vmUfC
+- IgboNER: https://aclanthology.org/2022.lrec-1.547/  https://github.com/Chiamakac/IgboNER-Models later updated in https://openreview.net/pdf?id=tHUS9-vmUfC  from https://sites.google.com/view/africanlp2023/home
 
 isiNdebele
 ----------
@@ -605,7 +605,7 @@ Venda
 -----
 
 - NCHLT Tshivenda Named Entity Annotated Corpus: https://repo.sadilar.org/handle/20.500.12185/355
-- MPHAYANER: Named Entity Recognition for Tshivenḓa: https://openreview.net/pdf?id=0nneuL3bSLt https://github.com/rendanim/MphayaNER
+- MPHAYANER: Named Entity Recognition for Tshivenḓa: https://openreview.net/pdf?id=0nneuL3bSLt https://github.com/rendanim/MphayaNER  from https://sites.google.com/view/africanlp2023/home
 
 Xitsonga
 --------
