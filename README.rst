@@ -49,6 +49,7 @@ MultiNERD       Wikipedia          CC BY-SA-NC 4.0      Tedeschi et al., 2022   
 HIPE-2022       Historical         CC BY-SA-NC 4.0      Ehrmann et al., 2022            https://github.com/hipe-eval/HIPE-2022-data
 Music-NER       Music              MIT                  Epure and Hennequin, 2023       https://github.com/deezer/music-ner-eacl2023
 WIESP2022-NER   Astrophysics       CC BY-SA-NC 4.0      Grezes et al., 2022             https://huggingface.co/datasets/adsabs/WIESP2022-NER
+NNE             News               CC 4.0 / LDC         Ringland et al., 2019           https://github.com/nickyringland/nested_named_entities
 ============== =============== ======================= =============================== ==================================
 
 Licenses
