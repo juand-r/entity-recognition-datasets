@@ -249,6 +249,7 @@ Czech
 - Czech Named Entity Corpus: http://ufal.mff.cuni.cz/cnec
 - BSNLP 2017 (Croatian, Czech, Polish, Russian, Slovak, Slovene, Ukrainian): http://bsnlp-2017.cs.helsinki.fi/shared_task_results.html
 - CzEng 1.0 (Parallel corpus: Czech-English): http://ufal.mff.cuni.cz/czeng/czeng10
+- PERO OCR NER (Czech historical OCR chronicles): https://github.com/roman-janik/PONER
 
 Polish
 ------
