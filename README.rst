@@ -548,6 +548,8 @@ Chinese
 - Chinese Weibo: DEFT ERE style annotations for named and nominal mentions on Chinese social media (Weibo): https://github.com/hltcoe/golden-horse
 - Chinese EduNER: 2023 dataset in the Education domain:  https://link.springer.com/article/10.1007/s00521-023-08635-5  https://github.com/anonymous-xl/eduner
 - Chinese Aerospace NER: https://www.nature.com/articles/s41598-023-50705-0   https://github.com/Coder-XIAOKAI/Aerospace_NERdatasets
+- SciCN: A Chinese Dataset and Benchmark for Scientific Information Extraction   https://file.techscience.com/files/cmc/2024/TSP_CMC-78-3/TSP_CMC_35594/TSP_CMC_35594.pdf  https://github.com/yangjingla/SciCN
+- Historical Chinese: https://aclanthology.org/2024.lrec-main.35.pdf https://gitlab.com/enpchina/ENP-NER
 
 Tagalog
 -------
