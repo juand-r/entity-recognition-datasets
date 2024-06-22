@@ -549,6 +549,11 @@ Chinese
 - Chinese EduNER: 2023 dataset in the Education domain:  https://link.springer.com/article/10.1007/s00521-023-08635-5  https://github.com/anonymous-xl/eduner
 - Chinese Aerospace NER: https://www.nature.com/articles/s41598-023-50705-0   https://github.com/Coder-XIAOKAI/Aerospace_NERdatasets
 
+Tagalog
+-------
+
+- TLUnifed: https://arxiv.org/abs/2311.07161 https://huggingface.co/datasets/ljvmiranda921/tlunified-ner
+
 Russian
 -------
 
