@@ -420,7 +420,7 @@ Urdu
 Indic
 -----
 
-- Naamapadam: Named Entity Recognition (NER) dataset for 11 major Indian languages from two language families.  https://research.ibm.com/publications/naamapadam-a-large-scale-named-entity-annotated-data-for-indic-languages   https://ai4bharat.iitm.ac.in/naamapadam
+- Naamapadam: Named Entity Recognition (NER) dataset for 11 major Indian languages from two language families.  https://research.ibm.com/publications/naamapadam-a-large-scale-named-entity-annotated-data-for-indic-languages   https://ai4bharat.iitm.ac.in/naamapadam  https://huggingface.co/datasets/ai4bharat/naamapadam
 
 Hindi
 -----
