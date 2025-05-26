@@ -482,6 +482,7 @@ Oriya/Odia
 ----------
 
 - IJCNLP 2008 SSEAL: http://ltrc.iiit.ac.in/ner-ssea-08/index.cgi?topic=5
+- OdNER: NER resource creation and system development for low-resource Odia language: https://www.sciencedirect.com/science/article/pii/S2949719125000159
 
 Sinhala/Sinhalese
 -----------------
