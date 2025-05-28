@@ -51,7 +51,8 @@ Music-NER       Music              MIT                  Epure and Hennequin, 202
 WIESP2022-NER   Astrophysics       CC BY-SA-NC 4.0      Grezes et al., 2022             https://huggingface.co/datasets/adsabs/WIESP2022-NER
 NNE             News               CC 4.0 / LDC         Ringland et al., 2019           https://github.com/nickyringland/nested_named_entities
 WorldWide       News               CC BY-SA-NC 4.0      Shan et al., 2023               https://github.com/stanfordnlp/en-worldwide-newswire   https://arxiv.org/abs/2404.13465
-============== =============== ======================= =============================== ==================================
+suralk/multiNER Government         CC                   Ranathunga et al., 2025         https://github.com/suralk/multiNER https://arxiv.org/pdf/2412.02056
+==============  =============== ======================= =============================== ==================================
 
 Licenses
 ========
