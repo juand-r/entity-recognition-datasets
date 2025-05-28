@@ -417,6 +417,7 @@ Urdu
 - IJCNLP 2008 SSEAL: http://ltrc.iiit.ac.in/ner-ssea-08/index.cgi?topic=5
 - UNER Dataset (Khan et al., Named Entity Dataset for Urdu Named Entity Recognition Task, 2016). Available at http://www.iiu.edu.pk/?page_id=5181
 - MK-PUCIT: https://www.dropbox.com/sh/1ivw7ykm2tugg94/AAB9t5wnN7FynESpo7TjJW8la ; see: Kanwal et al., Urdu Named Entity Recognition: Corpus Generationand Deep Learning Applications, 2019 
+- IL-NER:  `Fine-tuning Pre-trained Named Entity Recognition Models For Indian Languages <https://aclanthology.org/2024.naacl-srw.9/>`_ `Dataset <https://github.com/ltrc/IL-NER>`_
 
 Indic
 -----
@@ -430,6 +431,8 @@ Hindi
 - FIRE 2015, ESM-IL (English, Hindi, Tamil, Malayalam) : http://au-kbc.org/nlp/ESM-FIRE2015/#traincorpus
 - FIRE NER 2013 (English, Hindi, Tamil, Malayalam, Bengali): http://au-kbc.org/nlp/NER-FIRE2013/
 - IJCNLP 2008 SSEAL: http://ltrc.iiit.ac.in/ner-ssea-08/index.cgi?topic=5
+- IL-NER:  `Fine-tuning Pre-trained Named Entity Recognition Models For Indian Languages <https://aclanthology.org/2024.naacl-srw.9/>`_ `Dataset <https://github.com/ltrc/IL-NER>`_
+
 
 Bengali
 -------
@@ -486,6 +489,7 @@ Oriya/Odia
 
 - IJCNLP 2008 SSEAL: http://ltrc.iiit.ac.in/ner-ssea-08/index.cgi?topic=5
 - OdNER: NER resource creation and system development for low-resource Odia language: https://www.sciencedirect.com/science/article/pii/S2949719125000159
+- IL-NER:  `Fine-tuning Pre-trained Named Entity Recognition Models For Indian Languages <https://aclanthology.org/2024.naacl-srw.9/>`_ `Dataset <https://github.com/ltrc/IL-NER>`_
 
 Sinhala/Sinhalese
 -----------------
