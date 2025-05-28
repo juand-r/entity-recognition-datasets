@@ -20,9 +20,9 @@ due to licensing restrictions, as well as code to convert them (if necessary)
 to the CoNLL 2003 format. Links to NER corpora in other languages
 are also listed below.
 
-============== =============== ======================= =============================== ==================================
+=============== =============== ======================= =============================== ==================================
 Dataset         Domain            License                 Reference                       Availablility
-============== =============== ======================= =============================== ==================================
+=============== =============== ======================= =============================== ==================================
 CONLL 2003      News               DUA                  Sang and Meulder, 2003          `Easy <https://github.com/patverga/torch-ner-nlp-from-scratch/tree/master/data/conll2003/>`_ `to <https://github.com/synalp/NER/tree/master/corpus/CoNLL-2003>`_ `find <https://github.com/glample/tagger/tree/master/dataset>`_
 NIST-IEER       News               None                 NIST 1999 IE-ER                 `NLTK data <https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/ieer.zip>`_
 MUC-6           News               LDC                  Grishman and Sundheim, 1996     `LDC 2003T13 <https://catalog.ldc.upenn.edu/LDC2003T13>`_
@@ -52,7 +52,7 @@ WIESP2022-NER   Astrophysics       CC BY-SA-NC 4.0      Grezes et al., 2022     
 NNE             News               CC 4.0 / LDC         Ringland et al., 2019           https://github.com/nickyringland/nested_named_entities
 WorldWide       News               CC BY-SA-NC 4.0      Shan et al., 2023               https://github.com/stanfordnlp/en-worldwide-newswire   https://arxiv.org/abs/2404.13465
 suralk/multiNER Government         CC                   Ranathunga et al., 2025         https://github.com/suralk/multiNER https://arxiv.org/pdf/2412.02056
-==============  =============== ======================= =============================== ==================================
+=============== =============== ======================= =============================== ==================================
 
 Licenses
 ========
