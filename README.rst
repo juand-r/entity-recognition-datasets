@@ -471,8 +471,8 @@ Tamil
 
 - FIRE 2015, ESM-IL (English, Hindi, Tamil, Malayalam) : http://au-kbc.org/nlp/ESM-FIRE2015/#traincorpus
 - FIRE NER 2013 (English, Hindi, Tamil, Malayalam, Bengali): http://au-kbc.org/nlp/NER-FIRE2013/
-- English, Tamil, and Sinhala: [A Multi-way Parallel Named Entity Annotated Corpus
-for English, Tamil and Sinhala](https://arxiv.org/pdf/2412.02056)  [Data](https://github.com/suralk/multiNER)
+- English, Tamil, and Sinhala: `A Multi-way Parallel Named Entity Annotated Corpus
+for English, Tamil and Sinhala <https://arxiv.org/pdf/2412.02056>`_  `Data <https://github.com/suralk/multiNER>`_
 
 Malayalam
 ---------
