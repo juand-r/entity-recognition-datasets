@@ -470,6 +470,7 @@ Punjabi
 -------
 
 - Named Entity Annotated Corpora for Punjabi: http://www.tdil-dc.in/index.php?option=com_download&task=showresourceDetails&toolid=980&lang=en
+- Shahmukhi named entity recognition by using contextualized word embeddings: https://www.sciencedirect.com/science/article/pii/S0957417423009910 https://github.com/toqeerehsan/Punjabi-Shahmukhi-Named-Entity-Recognition
 
 Tamil
 -----
